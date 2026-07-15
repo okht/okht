@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Olá, sou Ht.
+# 👋 Olá, sou CHT.
 
 ### *Gestor de produto · Desenvolvedor guiado por meus interesses · Engenheiro de análise de dados*
 
@@ -40,7 +40,7 @@
 <a id="about"></a>
 ## 👋 Sobre mim
 
-Olá, sou Ht. Trabalho como gestor de produto. Também sou desenvolvedor guiado por meus interesses e engenheiro de análise de dados.
+Olá, sou CHT. Sou formado pela Universidade Politécnica de Hong Kong. Trabalho como gestor de produto. Também sou desenvolvedor guiado por meus interesses e engenheiro de análise de dados.
 
 Gosto de começar com um problema real: uma ação repetitiva, uma questão de produto pouco definida ou um fluxo de trabalho que vive perdendo contexto. Eu o transformo em produto e depois uso código e dados para torná-lo tangível e testável.
 

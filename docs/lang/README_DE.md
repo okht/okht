@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hallo, ich bin Ht.
+# 👋 Hallo, ich bin CHT.
 
 ### *Produktmanager · Entwickler aus persönlichem Interesse · Datenanalyse-Ingenieur*
 
@@ -40,7 +40,7 @@
 <a id="about"></a>
 ## 👋 Über mich
 
-Hallo, ich bin Ht. Ich bin Produktmanager, entwickle aus persönlichem Interesse Software und arbeite als Ingenieur für Datenanalyse.
+Hallo, ich bin CHT. Ich habe meinen Abschluss an der Hong Kong Polytechnic University gemacht. Ich bin Produktmanager, entwickle aus persönlichem Interesse Software und arbeite als Ingenieur für Datenanalyse.
 
 Ich beginne gern mit einem realen Problem: einer wiederkehrenden Handlung, einer vagen Produktfrage oder einem Arbeitsablauf, der immer wieder seinen Kontext verliert. Daraus forme ich ein Produkt und mache es anschließend mit Code und Daten greifbar und überprüfbar.
 

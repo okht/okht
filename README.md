@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ht.
+# 👋 Hi, I'm CHT.
 
 ### *Product manager · Interest-driven developer · Data analytics engineer*
 
@@ -40,7 +40,7 @@
 <a id="about"></a>
 ## 👋 About me
 
-Hi, this is Ht. I work as a product manager and am also an interest-driven developer and data analytics engineer.
+Hi, this is CHT. I graduated from The Hong Kong Polytechnic University. I work as a product manager and am also an interest-driven developer and data analytics engineer.
 
 I like starting with a real problem: a repetitive action, a vague product question, or a workflow that keeps losing context. I turn it into a product, then use code and data to make it tangible and testable.
 
