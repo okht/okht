@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 About me
 
-Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University and work across product management, interest-driven development, and data analytics engineering.
+Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University and am now a product manager, an interest-driven developer, and a data analytics engineer.
 
 I like starting with a real problem: a repetitive action, a vague product question, or a workflow that keeps losing context. I turn it into a product, then use code and data to make it tangible and testable.
 
