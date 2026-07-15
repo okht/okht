@@ -8,6 +8,9 @@
 
 ### *프로덕트 매니저 · 관심 기반 개발자 · 데이터 분석 엔지니어*
 
+<p align="center">
+  <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="홍콩이공대학교" height="42" /></a>
+</p>
 
 [![GitHub 팔로워](https://img.shields.io/github/followers/okht?style=social&label=%ED%8C%94%EB%A1%9C%EC%9B%8C)](https://github.com/okht) [![GitHub 스타 합계](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 

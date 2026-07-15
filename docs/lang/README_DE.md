@@ -8,6 +8,9 @@
 
 ### *Produktmanager · Entwickler aus persönlichem Interesse · Datenanalyse-Ingenieur*
 
+<p align="center">
+  <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="Polytechnische Universität Hongkong" height="42" /></a>
+</p>
 
 [![GitHub-Follower](https://img.shields.io/github/followers/okht?style=social&label=Follower)](https://github.com/okht) [![GitHub-Sterne gesamt](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 

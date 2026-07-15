@@ -8,6 +8,9 @@
 
 ### *プロダクトマネージャー · 興味駆動の開発者 · データ分析エンジニア*
 
+<p align="center">
+  <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="香港理工大学" height="42" /></a>
+</p>
 
 [![GitHubフォロワー](https://img.shields.io/github/followers/okht?style=social&label=%E3%83%95%E3%82%A9%E3%83%AF%E3%83%BC)](https://github.com/okht) [![GitHubスター合計](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 

@@ -8,6 +8,9 @@
 
 ### *Product manager · Interest-driven developer · Data analytics engineer*
 
+<p align="center">
+  <a href="https://www.polyu.edu.hk/"><img src="assets/education/the-hong-kong-polytechnic-university.png" alt="The Hong Kong Polytechnic University" height="42" /></a>
+</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/okht?style=social)](https://github.com/okht) [![GitHub Stars](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 
@@ -40,7 +43,7 @@
 <a id="about"></a>
 ## 👋 About me
 
-Hi, this is CHT. I graduated from The Hong Kong Polytechnic University. I work as a product manager and am also an interest-driven developer and data analytics engineer.
+Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University and work across product management, interest-driven development, and data analytics engineering.
 
 I like starting with a real problem: a repetitive action, a vague product question, or a workflow that keeps losing context. I turn it into a product, then use code and data to make it tangible and testable.
 

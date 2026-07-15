@@ -8,6 +8,9 @@
 
 ### *Gestor de producto · Desarrollador guiado por mis intereses · Ingeniero de analítica de datos*
 
+<p align="center">
+  <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="Universidad Politécnica de Hong Kong" height="42" /></a>
+</p>
 
 [![Seguidores en GitHub](https://img.shields.io/github/followers/okht?style=social&label=Seguidores)](https://github.com/okht) [![Estrellas totales de GitHub](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 

@@ -8,6 +8,9 @@
 
 ### *Продуктовый менеджер · Разработчик по интересу · Инженер по анализу данных*
 
+<p align="center">
+  <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="Гонконгский политехнический университет" height="42" /></a>
+</p>
 
 [![Подписчики GitHub](https://img.shields.io/github/followers/okht?style=social&label=Подписчики)](https://github.com/okht) [![Всего звёзд GitHub](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 
