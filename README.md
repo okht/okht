@@ -40,6 +40,12 @@
 
 ---
 
+### 📬 Find Me
+
+[![Website](https://img.shields.io/badge/-cht.me-000000?style=for-the-badge)](https://cht.me)
+
+---
+
 <a id="about"></a>
 ## 👋 About me
 
@@ -258,9 +264,17 @@ I want the framework to serve maintainers of complex projects and grow into an A
 ---
 
 <a id="stack"></a>
-## 🛠 Tools I work with
+## 🛠 Tech Stack
 
-`Python` · `JavaScript` · `Jupyter Notebook` · `PowerShell` · `Markdown` · `Mermaid` · `Codex` · `Claude Code` · `AgentSkills`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Mermaid](https://img.shields.io/badge/-Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge)
+![AgentSkills](https://img.shields.io/badge/-AgentSkills-8B5CF6?style=for-the-badge)
 
 ---
 
