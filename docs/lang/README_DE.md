@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Von%20echten%20Problemen%20ausgehen.;Code%20%C2%B7%20Daten%20%C2%B7%20Agent.;Ideen%20greifbar%2C%20testbar%20und%20wiederverwendbar%20machen." alt="Animierte Vorstellung" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Von%20echten%20Problemen%20ausgehen.;Agent%20%C2%B7%20Code%20%C2%B7%20Daten.;Ideen%20greifbar%2C%20testbar%20und%20wiederverwendbar%20machen." alt="Animierte Vorstellung" />
 </p>
 
 <div align="center">
 
 # 👋 Hallo, ich bin CHT.
 
-### *Produktmanager · Entwickler aus persönlichem Interesse · Datenanalyse-Ingenieur*
+### *Produktmanager · Entwickler aus persönlichem Interesse*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="Polytechnische Universität Hongkong" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 Über mich
 
-Hallo, ich bin CHT. Ich habe meinen Abschluss an der Hong Kong Polytechnic University gemacht. Ich bin Produktmanager, entwickle aus persönlichem Interesse Software und arbeite als Ingenieur für Datenanalyse.
+Hallo, ich bin CHT. Ich habe meinen Abschluss an der Hong Kong Polytechnic University gemacht. Ich bin Produktmanager und Entwickler aus persönlichem Interesse und beschäftige mich in Open-Source-Projekten mit KI-Agenten, Software und Datenanalyse.
 
 Ich beginne gern mit einem realen Problem: einer wiederkehrenden Handlung, einer vagen Produktfrage oder einem Arbeitsablauf, der immer wieder seinen Kontext verliert. Daraus forme ich ein Produkt und mache es anschließend mit Code und Daten greifbar und überprüfbar.
 

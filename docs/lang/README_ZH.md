@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%E4%BB%8E%E7%9C%9F%E5%AE%9E%E9%97%AE%E9%A2%98%E5%87%BA%E5%8F%91%E3%80%82;%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%20%C2%B7%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%20%C2%B7%20Agent%E3%80%82;%E8%AE%A9%E6%83%B3%E6%B3%95%E5%8F%AF%E4%BB%A5%E8%90%BD%E5%9C%B0%E3%80%81%E9%AA%8C%E8%AF%81%E5%92%8C%E5%A4%8D%E7%94%A8%E3%80%82" alt="动态个人介绍" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%E4%BB%8E%E7%9C%9F%E5%AE%9E%E9%97%AE%E9%A2%98%E5%87%BA%E5%8F%91%E3%80%82;Agent%20%C2%B7%20%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%20%C2%B7%20%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E3%80%82;%E8%AE%A9%E6%83%B3%E6%B3%95%E5%8F%AF%E4%BB%A5%E8%90%BD%E5%9C%B0%E3%80%81%E9%AA%8C%E8%AF%81%E5%92%8C%E5%A4%8D%E7%94%A8%E3%80%82" alt="动态个人介绍" />
 </p>
 
 <div align="center">
 
 # 👋 Hi，这里是 CHT.
 
-### *产品经理 · 兴趣驱动的开发者 · 数据分析工程师*
+### *产品经理 · 兴趣驱动的开发者*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="香港理工大学" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 关于我
 
-Hi，这里是 CHT. 我毕业于香港理工大学。现在是一名产品经理，也是一名兴趣驱动的开发者和数据分析工程师。
+Hi，这里是 CHT. 我毕业于香港理工大学。现在是一名产品经理，也是一名兴趣驱动的开发者，通过开源项目探索 AI Agent、软件与数据分析。
 
 我喜欢从真实问题出发：一个反复出现的动作、一个模糊的产品问题，或者一条持续丢失上下文的工作流。我会先把它整理成产品，再通过代码和数据让它落地并接受验证。
 

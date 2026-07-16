@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%EC%8B%A4%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%97%90%EC%84%9C%20%EC%8B%9C%EC%9E%91%ED%95%B4%20%EB%A7%8C%EB%93%A0%EB%8B%A4.;%EC%BD%94%EB%93%9C%20%C2%B7%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%C2%B7%20Agent.;%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0%2C%20%EA%B2%80%EC%A6%9D%ED%95%98%EA%B3%A0%2C%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%EB%8B%A4." alt="움직이는 자기소개" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%EC%8B%A4%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EC%97%90%EC%84%9C%20%EC%8B%9C%EC%9E%91%ED%95%B4%20%EB%A7%8C%EB%93%A0%EB%8B%A4.;Agent%20%C2%B7%20%EC%BD%94%EB%93%9C%20%C2%B7%20%EB%8D%B0%EC%9D%B4%ED%84%B0.;%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B3%A0%2C%20%EA%B2%80%EC%A6%9D%ED%95%98%EA%B3%A0%2C%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%A0%EB%8B%A4." alt="움직이는 자기소개" />
 </p>
 
 <div align="center">
 
 # 👋 안녕하세요, CHT.입니다
 
-### *프로덕트 매니저 · 관심 기반 개발자 · 데이터 분석 엔지니어*
+### *프로덕트 매니저 · 관심을 동력으로 삼는 개발자*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="홍콩이공대학교" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 소개
 
-안녕하세요, CHT.입니다. 홍콩이공대학교를 졸업했습니다. 프로덕트 매니저로 일하며 관심 기반 개발과 데이터 분석 엔지니어링도 함께하고 있습니다.
+안녕하세요, CHT.입니다. 홍콩이공대학교를 졸업했습니다. 프로덕트 매니저이자 관심을 동력으로 삼는 개발자로서, 오픈소스 프로젝트를 통해 AI 에이전트, 소프트웨어, 데이터 분석을 탐구합니다.
 
 저는 실제 문제에서 시작하는 것을 좋아합니다. 반복되는 행동, 모호한 제품 질문, 맥락이 계속 사라지는 워크플로를 제품으로 정리한 뒤 코드와 데이터로 구현하고 검증할 수 있게 만듭니다.
 

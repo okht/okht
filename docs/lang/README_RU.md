@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%20%D1%81%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC.;%D0%9A%D0%BE%D0%B4%20%C2%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5%20%C2%B7%20Agent.;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%BE%D1%81%D1%8F%D0%B7%D0%B0%D0%B5%D0%BC%D1%8B%D0%BC%D0%B8%2C%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D1%8B%D0%BC%D0%B8%20%D0%B8%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%BD%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8%D0%BC%D0%B8." alt="Динамическое представление" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%D0%9D%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%20%D1%81%20%D1%80%D0%B5%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC.;Agent%20%C2%B7%20%D0%9A%D0%BE%D0%B4%20%C2%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%20%D0%B8%D0%B4%D0%B5%D0%B8%20%D0%BE%D1%81%D1%8F%D0%B7%D0%B0%D0%B5%D0%BC%D1%8B%D0%BC%D0%B8%2C%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D1%8F%D0%B5%D0%BC%D1%8B%D0%BC%D0%B8%20%D0%B8%20%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%D0%BA%D1%80%D0%B0%D1%82%D0%BD%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B8." alt="Динамическое представление" />
 </p>
 
 <div align="center">
 
 # 👋 Привет, я CHT.
 
-### *Продуктовый менеджер · Разработчик по интересу · Инженер по анализу данных*
+### *Продуктовый менеджер · Разработчик по интересу*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="Гонконгский политехнический университет" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 Обо мне
 
-Привет, я CHT. Я окончил Гонконгский политехнический университет. Я работаю продуктовым менеджером, занимаюсь разработкой из личного интереса и являюсь инженером по анализу данных.
+Привет, я CHT. Я окончил Гонконгский политехнический университет. Я — продуктовый менеджер и разработчик по интересу; в проектах с открытым исходным кодом я исследую ИИ-агентов, программное обеспечение и анализ данных.
 
 Мне нравится начинать с реальной проблемы: повторяющегося действия, неясного продуктового вопроса или рабочего процесса, который постоянно теряет контекст. Я превращаю проблему в продукт, а затем с помощью кода и данных делаю его осязаемым и проверяемым.
 

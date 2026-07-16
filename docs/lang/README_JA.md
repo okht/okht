@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%E5%AE%9F%E9%9A%9B%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%8B%E3%82%89%E3%81%A4%E3%81%8F%E3%82%8B%E3%80%82;%E3%82%B3%E3%83%BC%E3%83%89%20%C2%B7%20%E3%83%87%E3%83%BC%E3%82%BF%20%C2%B7%20Agent%E3%80%82;%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E5%BD%A2%E3%81%AB%E3%81%97%E3%80%81%E6%A4%9C%E8%A8%BC%E3%81%97%E3%80%81%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%80%82" alt="動く自己紹介" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=%E5%AE%9F%E9%9A%9B%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%8B%E3%82%89%E3%81%A4%E3%81%8F%E3%82%8B%E3%80%82;Agent%20%C2%B7%20%E3%82%B3%E3%83%BC%E3%83%89%20%C2%B7%20%E3%83%87%E3%83%BC%E3%82%BF%E3%80%82;%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2%E3%82%92%E5%BD%A2%E3%81%AB%E3%81%97%E3%80%81%E6%A4%9C%E8%A8%BC%E3%81%97%E3%80%81%E5%86%8D%E5%88%A9%E7%94%A8%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B%E3%80%82" alt="動く自己紹介" />
 </p>
 
 <div align="center">
 
 # 👋 こんにちは、CHT.です
 
-### *プロダクトマネージャー · 興味駆動の開発者 · データ分析エンジニア*
+### *プロダクトマネージャー · 興味を原動力にする開発者*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="香港理工大学" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 私について
 
-こんにちは、CHT.です。香港理工大学を卒業しました。プロダクトマネージャーとして働きながら、興味駆動の開発とデータ分析エンジニアリングにも取り組んでいます。
+こんにちは、CHT.です。香港理工大学を卒業しました。プロダクトマネージャーであり、興味を原動力にする開発者として、オープンソースプロジェクトを通じてAIエージェント、ソフトウェア、データ分析を探求しています。
 
 私は実際の課題から始めることが好きです。繰り返す作業、曖昧なプロダクト上の問い、あるいは文脈が失われ続けるワークフローをプロダクトに整理し、コードとデータで形にして検証できるようにします。
 

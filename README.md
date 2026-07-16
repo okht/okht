@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Build%20from%20real%20problems.;Code%20%C2%B7%20Data%20%C2%B7%20Agent.;Make%20ideas%20tangible%2C%20testable%2C%20and%20reusable." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Build%20from%20real%20problems.;Agent%20%C2%B7%20Code%20%C2%B7%20Data.;Make%20ideas%20tangible%2C%20testable%2C%20and%20reusable." alt="Typing introduction" />
 </p>
 
 <div align="center">
 
 # 👋 Hi, I'm CHT.
 
-### *Product manager · Interest-driven developer · Data analytics engineer*
+### *Product manager · Interest-driven developer*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="assets/education/the-hong-kong-polytechnic-university.png" alt="The Hong Kong Polytechnic University" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 About me
 
-Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University and am now a product manager, an interest-driven developer, and a data analytics engineer.
+Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University. I am a product manager and interest-driven developer exploring AI agents, software, and data analytics through open-source projects.
 
 I like starting with a real problem: a repetitive action, a vague product question, or a workflow that keeps losing context. I turn it into a product, then use code and data to make it tangible and testable.
 

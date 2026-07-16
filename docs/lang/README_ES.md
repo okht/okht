@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Construyo%20a%20partir%20de%20problemas%20reales.;C%C3%B3digo%20%C2%B7%20Datos%20%C2%B7%20Agent.;Materializo%20ideas%20para%20que%20se%20puedan%20probar%20y%20reutilizar." alt="Introducción animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Construyo%20a%20partir%20de%20problemas%20reales.;Agent%20%C2%B7%20C%C3%B3digo%20%C2%B7%20Datos.;Materializo%20ideas%20para%20que%20se%20puedan%20probar%20y%20reutilizar." alt="Introducción animada" />
 </p>
 
 <div align="center">
 
 # 👋 Hola, soy CHT.
 
-### *Gestor de producto · Desarrollador guiado por mis intereses · Ingeniero de analítica de datos*
+### *Gestor de producto · Desarrollador guiado por mis intereses*
 
 <p align="center">
   <a href="https://www.polyu.edu.hk/"><img src="../../assets/education/the-hong-kong-polytechnic-university.png" alt="Universidad Politécnica de Hong Kong" height="42" /></a>
@@ -43,7 +43,7 @@
 <a id="about"></a>
 ## 👋 Acerca de mí
 
-Hola, soy CHT. Me gradué en la Universidad Politécnica de Hong Kong. Trabajo como gestor de producto. También soy desarrollador guiado por mis intereses e ingeniero de analítica de datos.
+Hola, soy CHT. Me gradué en la Universidad Politécnica de Hong Kong. Soy gestor de producto y desarrollador guiado por mis intereses, y exploro agentes de IA, software y analítica de datos mediante proyectos de código abierto.
 
 Me gusta partir de un problema real: una acción repetitiva, una pregunta de producto poco definida o un flujo de trabajo que pierde contexto una y otra vez. Lo convierto en un producto y después uso código y datos para hacerlo tangible y comprobable.
 
