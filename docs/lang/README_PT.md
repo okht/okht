@@ -42,7 +42,7 @@
 
 ### 📬 Onde me encontrar
 
-[![Website](https://img.shields.io/badge/-cht.me-FFFFFF?style=for-the-badge)](https://cht.me)
+<a href="https://cht.me"><img src="https://img.shields.io/badge/-cht.me-FFFFFF?style=for-the-badge" alt="Website" height="36" /></a>
 
 ---
 
