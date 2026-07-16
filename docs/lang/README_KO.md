@@ -42,7 +42,7 @@
 
 ### 📬 링크
 
-[![Website](https://img.shields.io/badge/-cht.me-000000?style=for-the-badge)](https://cht.me)
+[![Website](https://img.shields.io/badge/-cht.me-FFFFFF?style=for-the-badge)](https://cht.me)
 
 ---
 
