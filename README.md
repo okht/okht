@@ -7,19 +7,6 @@
 <a href="https://www.polyu.edu.hk/"><img src="assets/profile/hi-cht-polyu-v5.svg" alt="Hi, I'm CHT — The Hong Kong Polytechnic University" height="50" /></a>
 <img src="assets/profile/role-subtitle-v2.svg" alt="Product manager · Interest-driven developer" height="28" />
 
-<br>
-
-<p align="center">
-  🧩 &nbsp;I build software when a repeated action deserves a product.<br>
-  📊 &nbsp;I use data when intuition needs evidence.<br>
-  🤖 &nbsp;I build agents for workflows that need memory, tools, and judgment.
-</p>
-
-### ✨ I turn real problems into products that can be used, measured, and improved.
-
-**Curiosity → product judgment → code or analysis → reusable system**
-
-<br>
 
 [👋 About](#about) · [💻 Software](#software-development) · [📊 Data](#data-analytics) · [🤖 Agents](#agents) · [🛠 Stack](#stack)
 
