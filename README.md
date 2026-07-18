@@ -4,9 +4,8 @@
 
 <div align="center">
 
-<a href="https://www.polyu.edu.hk/"><img src="assets/profile/hi-cht-polyu-v4.svg" alt="Hi, I'm CHT — The Hong Kong Polytechnic University" height="42" /></a>
-
-<img src="assets/profile/role-subtitle-v1.svg" alt="Product manager · Interest-driven developer" height="22" />
+<a href="https://www.polyu.edu.hk/"><img src="assets/profile/hi-cht-polyu-v5.svg" alt="Hi, I'm CHT — The Hong Kong Polytechnic University" height="50" /></a>
+<img src="assets/profile/role-subtitle-v2.svg" alt="Product manager · Interest-driven developer" height="28" />
 
 <br>
 
