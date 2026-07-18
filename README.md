@@ -6,7 +6,7 @@
 
 <a href="https://www.polyu.edu.hk/"><img src="assets/profile/hi-cht-polyu-v3.svg" alt="Hi, I'm CHT — The Hong Kong Polytechnic University" height="42" /></a>
 
-### *Product manager · Interest-driven developer*
+<img src="assets/profile/role-subtitle-v1.svg" alt="Product manager · Interest-driven developer" height="22" />
 
 <br>
 
