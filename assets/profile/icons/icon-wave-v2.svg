@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="Wave">
+  <g transform="translate(0.00 0.00) scale(1.00000)" aria-hidden="true">
+    <!-- palm + fingers (open wave) -->
+    <path fill="#FFC107" stroke="#F9A825" stroke-width="0.4" stroke-linejoin="round" d="
+      M11.5 29
+      C8.2 29 6 26.6 6 23.2
+      V15.2
+      C6 13.7 7.2 12.5 8.7 12.5
+      C9.3 12.5 9.9 12.7 10.3 13.1
+      V10.8
+      C10.3 9.3 11.5 8.1 13 8.1
+      C13.6 8.1 14.1 8.3 14.5 8.6
+      V9.2
+      C14.5 7.7 15.7 6.5 17.2 6.5
+      C18.7 6.5 19.9 7.7 19.9 9.2
+      V10.5
+      C19.9 9 21.1 7.8 22.6 7.8
+      C24.1 7.8 25.3 9 25.3 10.5
+      V14.8
+      C25.3 13.6 26.3 12.7 27.5 12.7
+      C28.8 12.7 29.8 13.7 29.8 15
+      V21.5
+      C29.8 26.2 26.2 29 21.5 29
+      H11.5
+      Z
+    "/>
+    <!-- finger gaps / highlight -->
+    <path fill="#FFD54F" d="
+      M12.2 13.5
+      C12.2 12.2 13.1 11.2 14.3 11.2
+      C15.4 11.2 16.2 12 16.2 13.1
+      V18.5
+      H14.8
+      V13.5
+      H12.2
+      Z
+    " opacity="0.55"/>
+    <!-- thumb highlight -->
+    <path fill="#FFB300" d="
+      M8.2 15.5
+      C8.2 14.3 9.1 13.4 10.2 13.4
+      C11.1 13.4 11.8 14.1 11.8 15
+      V20.2
+      H10
+      V15.5
+      H8.2
+      Z
+    " opacity="0.45"/>
+    <!-- palm shadow -->
+    <ellipse cx="17.5" cy="22.5" rx="6.5" ry="4.2" fill="#FFA000" opacity="0.28"/>
+    <!-- wrist cuff -->
+    <path fill="#42A5F5" d="M10.5 27.2h12.2c1.1 0 2 .7 2 1.6v.7H8.5v-.7c0-.9.9-1.6 2-1.6z"/>
+    <path fill="#1E88E5" d="M8.5 28.8h16.2v1.2c0 .4-.4.7-.9.7H9.4c-.5 0-.9-.3-.9-.7v-1.2z"/>
+  </g>
+</svg>
