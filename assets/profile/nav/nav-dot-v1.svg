@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="16" viewBox="0 0 10 16" role="presentation">
+  <style>
+    .n { fill: #57606a; }
+    @media (prefers-color-scheme: dark) {
+      .n { fill: #8b949e; }
+    }
+
+  </style>
+  <rect class="n" x="3.5" y="6.5" width="3" height="3" />
+</svg>
