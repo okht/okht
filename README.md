@@ -1,34 +1,28 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Build%20from%20real%20problems.;Agent%20%C2%B7%20Code%20%C2%B7%20Data.;Make%20ideas%20tangible%2C%20testable%2C%20and%20reusable." alt="Typing introduction" />
+  <img src="assets/sleepclaw/sleepclaw-coming-soon.svg" alt="SleepClaw — Coming soon." width="820" />
 </p>
 
+---
+
 <p align="center">
-  <img src="assets/sleepclaw/sleepclaw-coming-soon.svg" alt="SleepClaw — Coming soon." width="820" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Build%20from%20real%20problems.;Agent%20%C2%B7%20Code%20%C2%B7%20Data.;Make%20ideas%20tangible%2C%20testable%2C%20and%20reusable." alt="Typing introduction" />
 </p>
 
 <div align="center">
 
-# 👋 Hi, I'm CHT.
+# 👋 Hi, I'm CHT. <a href="https://www.polyu.edu.hk/"><img src="assets/education/the-hong-kong-polytechnic-university.png" alt="The Hong Kong Polytechnic University" height="34" /></a>
 
 ### *Product manager · Interest-driven developer*
-
-<p align="center">
-  <a href="https://www.polyu.edu.hk/"><img src="assets/education/the-hong-kong-polytechnic-university.png" alt="The Hong Kong Polytechnic University" height="42" /></a>
-</p>
 
 [![GitHub followers](https://img.shields.io/github/followers/okht?style=social)](https://github.com/okht) [![GitHub Stars](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 
 <br>
 
-<table>
-<tr><td align="left">
-
-🧩 &nbsp;I build software when a repeated action deserves a product.<br>
-📊 &nbsp;I use data when intuition needs evidence.<br>
-🧠 &nbsp;I create Agent Skills when a workflow deserves to compound.
-
-</td></tr>
-</table>
+<p align="center">
+  🧩 &nbsp;I build software when a repeated action deserves a product.<br>
+  📊 &nbsp;I use data when intuition needs evidence.<br>
+  🤖 &nbsp;I build agents for workflows that need memory, tools, and judgment.
+</p>
 
 ### ✨ I turn real problems into products that can be used, measured, and improved.
 
@@ -36,9 +30,8 @@
 
 <br>
 
-[👋 About](#about) · [💻 Software](#software-development) · [📊 Data](#data-analytics) · [🧠 Agent Skills](#agent-skills) · [🧭 Principles](#principles) · [🛠 Stack](#stack)
+[👋 About](#about) · [💻 Software](#software-development) · [📊 Data](#data-analytics) · [🤖 Agents](#agents) · [🧭 Principles](#principles) · [🛠 Stack](#stack)
 
-[**English**](README.md) · [**简体中文**](docs/lang/README_ZH.md) · [**Español**](docs/lang/README_ES.md) · [**Deutsch**](docs/lang/README_DE.md) · [**日本語**](docs/lang/README_JA.md) · [**Русский**](docs/lang/README_RU.md) · [**Português**](docs/lang/README_PT.md) · [**한국어**](docs/lang/README_KO.md)
 
 </div>
 
@@ -63,7 +56,7 @@ This profile follows three lines of work. Every repository begins with a concret
 |---|---|
 | **Software development** | Remove recurring friction with small, usable tools |
 | **Data analytics** | Make assumptions, costs, failures, and decisions inspectable |
-| **Agent Skills** | Turn repeatable workflows into systems that can be reused |
+| **Agents** | Combine reusable context, tools, and judgment around repeatable workflows |
 
 ---
 
@@ -187,10 +180,10 @@ I want the project to serve AI product leaders and grow into an AI experience mo
 
 ---
 
-<a id="agent-skills"></a>
-## 🧠 Agent Skills
+<a id="agents"></a>
+## 🤖 Agents
 
-When a useful workflow repeats, I turn the judgment behind it into a reusable Skill.
+I build agent systems around workflows that benefit from reusable context, tools, and judgment.
 
 | Project | Product idea | Stars |
 |---|---|---:|
@@ -278,7 +271,7 @@ I want the framework to serve maintainers of complex projects and grow into an A
 ![Mermaid](https://img.shields.io/badge/-Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge)
-![AgentSkills](https://img.shields.io/badge/-AgentSkills-8B5CF6?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-8B5CF6?style=for-the-badge)
 
 ---
 
