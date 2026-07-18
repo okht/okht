@@ -32,12 +32,11 @@ This profile follows three lines of work. Every repository begins with a concret
 | **Data analytics** | Make assumptions, costs, failures, and decisions inspectable |
 | **Agents** | Combine reusable context, tools, and judgment around repeatable workflows |
 
+---
+
 <p align="center">
   <img src="assets/sleepclaw/sleepclaw-coming-soon-v8.svg" alt="SleepClaw — Coming soon." width="820" />
 </p>
-
-
----
 
 <a id="software-development"></a>
 <img src="assets/profile/headings/heading-software-development-v2.svg" alt="Software development" height="36" />
