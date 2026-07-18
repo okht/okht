@@ -15,10 +15,7 @@
 
 <a href="https://cht.me"><img src="assets/profile/cht-me-v3.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/red-owl-vector-animated"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="Red owl animated" height="52" /></a>
 
----
-
 <a id="about"></a>
-<img src="assets/profile/headings/heading-about-me-v1.svg" alt="About me" height="36" />
 
 Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University. I am a product manager and interest-driven developer exploring AI agents, software, and data analytics through open-source projects.
 
@@ -32,14 +29,11 @@ This profile follows three lines of work. Every repository begins with a concret
 | **Data analytics** | Make assumptions, costs, failures, and decisions inspectable |
 | **Agents** | Combine reusable context, tools, and judgment around repeatable workflows |
 
----
-
 <p align="center">
   <img src="assets/sleepclaw/sleepclaw-coming-soon-v8.svg" alt="SleepClaw — Coming soon." width="820" />
 </p>
 
 <a id="software-development"></a>
-<img src="assets/profile/headings/heading-software-development-v1.svg" alt="Software development" height="36" />
 
 I build focused tools around problems I have actually encountered.
 
@@ -88,10 +82,7 @@ I want it to develop into a personal investment data console covering more asset
 
 </details>
 
----
-
 <a id="data-analytics"></a>
-<img src="assets/profile/headings/heading-data-analytics-v1.svg" alt="Data analytics" height="36" />
 
 I use analysis to challenge intuition, record uncertainty, and make decisions easier to revisit.
 
@@ -156,10 +147,7 @@ I want the project to serve AI product leaders and grow into an AI experience mo
 
 </details>
 
----
-
 <a id="agents"></a>
-<img src="assets/profile/headings/heading-agents-v1.svg" alt="Agents" height="36" />
 
 I build agent systems around workflows that benefit from reusable context, tools, and judgment.
 
@@ -222,10 +210,7 @@ I want the framework to serve maintainers of complex projects and grow into an A
 
 </details>
 
----
-
 <a id="stack"></a>
-<img src="assets/profile/headings/heading-tech-stack-v1.svg" alt="Tech Stack" height="36" />
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -237,11 +222,7 @@ I want the framework to serve maintainers of complex projects and grow into an A
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-8B5CF6?style=for-the-badge)
 
----
-
 <div align="center">
-
-### **Build from real problems. Measure honestly. Keep what compounds.**
 
 Thanks for stopping by. Explore any project that catches your eye.
 
