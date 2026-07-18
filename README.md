@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Build%20from%20real%20problems.;Agent%20%C2%B7%20Code%20%C2%B7%20Data.;Make%20ideas%20tangible%2C%20testable%2C%20and%20reusable." alt="Typing introduction" />
+  <img src="assets/profile/typing-intro-gt-eesti-v1.svg" alt="Typing introduction" width="820" />
 </p>
 
 <div align="center">
