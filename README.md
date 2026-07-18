@@ -24,8 +24,9 @@
 
 [👋 About](#about) · [💻 Software](#software-development) · [📊 Data](#data-analytics) · [🤖 Agents](#agents) · [🧭 Principles](#principles) · [🛠 Stack](#stack)
 
-
 </div>
+
+<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/okht?style=social)](https://github.com/okht) [![GitHub Stars](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 
