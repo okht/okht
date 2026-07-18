@@ -226,15 +226,7 @@ I want the framework to serve maintainers of complex projects and grow into an A
 <a id="stack"></a>
 <img src="assets/profile/headings/heading-tech-stack-v5.svg" alt="Tech Stack" height="36" />
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Mermaid](https://img.shields.io/badge/-Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-8B5CF6?style=for-the-badge)
+<img src="assets/profile/stack-badges/badge-codex-v1.svg" alt="Codex" height="32" /> <img src="assets/profile/stack-badges/badge-claude-code-v1.svg" alt="Claude Code" height="32" /> <img src="assets/profile/stack-badges/badge-python-v1.svg" alt="Python" height="32" /> <img src="assets/profile/stack-badges/badge-typescript-v1.svg" alt="TypeScript" height="32" /> <img src="assets/profile/stack-badges/badge-javascript-v1.svg" alt="JavaScript" height="32" /> <img src="assets/profile/stack-badges/badge-jupyter-v1.svg" alt="Jupyter" height="32" /> <img src="assets/profile/stack-badges/badge-powershell-v1.svg" alt="PowerShell" height="32" /> <img src="assets/profile/stack-badges/badge-markdown-v1.svg" alt="Markdown" height="32" /> <img src="assets/profile/stack-badges/badge-mermaid-v1.svg" alt="Mermaid" height="32" />
 
 <div align="center">
 
