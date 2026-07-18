@@ -50,7 +50,7 @@ This profile follows three lines of work. Every repository begins with a concret
 ---
 
 <p align="center">
-  <img src="assets/sleepclaw/sleepclaw-coming-soon-v5.svg" alt="SleepClaw — Coming soon." width="820" />
+  <img src="assets/sleepclaw/sleepclaw-coming-soon-v6.svg" alt="SleepClaw — Coming soon." width="820" />
 </p>
 
 <a id="software-development"></a>
