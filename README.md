@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=000000&center=true&vCenter=true&random=false&width=820&lines=Build%20from%20real%20problems.;Agent%20%C2%B7%20Code%20%C2%B7%20Data.;Make%20ideas%20tangible%2C%20testable%2C%20and%20reusable." alt="Typing introduction" />
 </p>
 
+<p align="center">
+  <img src="assets/sleepclaw/sleepclaw-coming-soon.svg" alt="SleepClaw — Coming soon." width="820" />
+</p>
+
 <div align="center">
 
 # 👋 Hi, I'm CHT.
