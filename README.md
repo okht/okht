@@ -8,8 +8,6 @@
 
 ### *Product manager · Interest-driven developer*
 
-[![GitHub followers](https://img.shields.io/github/followers/okht?style=social)](https://github.com/okht) [![GitHub Stars](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
-
 <br>
 
 <p align="center">
@@ -28,6 +26,8 @@
 
 
 </div>
+
+[![GitHub followers](https://img.shields.io/github/followers/okht?style=social)](https://github.com/okht) [![GitHub Stars](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
 
 ---
 
