@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm CHT. <a href="https://www.polyu.edu.hk/"><img src="assets/education/the-hong-kong-polytechnic-university.png" alt="The Hong Kong Polytechnic University" height="34" /></a>
+# 👋 Hi, I'm CHT <a href="https://www.polyu.edu.hk/"><img src="assets/education/the-hong-kong-polytechnic-university.png" alt="The Hong Kong Polytechnic University" height="34" /></a>
 
 ### *Product manager · Interest-driven developer*
 
