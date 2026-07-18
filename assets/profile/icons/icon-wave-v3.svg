@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="Wave">
+  <g transform="translate(0.00 0.00) scale(1.00000)" aria-hidden="true">
+    <!-- soft shadow -->
+    <ellipse cx="16.5" cy="28.5" rx="9" ry="2.2" fill="#000000" opacity="0.08"/>
+    <!-- palm -->
+    <path fill="#FFCA28" d="
+      M9.5 28
+      C7.2 28 5.5 26.2 5.5 23.8
+      V16.5
+      C5.5 15.1 6.6 14 8 14
+      C8.6 14 9.1 14.2 9.5 14.5
+      V15.2
+      C10.2 14.5 11.1 14 12.2 14
+      H20.5
+      C23.5 14 25.8 16.2 25.8 19.2
+      V23.5
+      C25.8 26.3 23.5 28 20.8 28
+      H9.5
+      Z
+    "/>
+    <!-- palm highlight -->
+    <path fill="#FFD54F" opacity="0.55" d="
+      M9.8 16.2
+      H20.2
+      C22.2 16.2 23.8 17.7 23.8 19.6
+      V22.8
+      C23.8 24.5 22.3 25.8 20.5 25.8
+      H10.5
+      C9.3 25.8 8.3 24.9 8.3 23.7
+      V17.6
+      C8.3 16.8 9 16.2 9.8 16.2
+      Z
+    "/>
+    <!-- thumb -->
+    <path fill="#FFCA28" d="
+      M5.8 20.5
+      C4.2 19.2 4.1 16.8 5.5 15.4
+      C6.8 14.1 8.9 14.2 10.1 15.5
+      C10.7 16.1 11 16.9 11 17.8
+      V22.2
+      C9.2 22.8 7.2 21.7 5.8 20.5
+      Z
+    "/>
+    <path fill="#FFD54F" opacity="0.5" d="
+      M6.6 16.6
+      C7.4 15.8 8.7 15.9 9.4 16.7
+      C9.8 17.1 10 17.6 10 18.2
+      V20.8
+      C8.9 21.1 7.6 20.5 6.8 19.7
+      C6.2 19 6.1 17.4 6.6 16.6
+      Z
+    "/>
+    <!-- fingers: index, middle, ring, pinky as rounded rects -->
+    <rect x="11.2" y="5.8" width="3.1" height="10.2" rx="1.55" fill="#FFCA28"/>
+    <rect x="14.8" y="4.2" width="3.1" height="11.8" rx="1.55" fill="#FFCA28"/>
+    <rect x="18.4" y="5.2" width="3.1" height="10.8" rx="1.55" fill="#FFCA28"/>
+    <rect x="22.0" y="6.8" width="3.0" height="9.2" rx="1.5" fill="#FFCA28"/>
+    <!-- finger highlights -->
+    <rect x="11.7" y="6.4" width="1.1" height="7.5" rx="0.55" fill="#FFE082" opacity="0.7"/>
+    <rect x="15.3" y="4.9" width="1.1" height="8.8" rx="0.55" fill="#FFE082" opacity="0.7"/>
+    <rect x="18.9" y="5.9" width="1.1" height="7.8" rx="0.55" fill="#FFE082" opacity="0.7"/>
+    <rect x="22.5" y="7.4" width="1.0" height="6.5" rx="0.5" fill="#FFE082" opacity="0.7"/>
+    <!-- subtle finger separators on palm -->
+    <path stroke="#F9A825" stroke-width="0.7" stroke-linecap="round" opacity="0.45" fill="none"
+          d="M14.4 15.5v4.5 M18 15.5v4.5 M21.6 16v4"/>
+  </g>
+</svg>
