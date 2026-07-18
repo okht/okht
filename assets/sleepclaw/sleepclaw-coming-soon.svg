@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" role="img" aria-labelledby="sc-title sc-desc" preserveAspectRatio="xMidYMid meet">
+  <title id="sc-title">SleepClaw — Coming soon.</title>
+  <desc id="sc-desc">SleepClaw. Coming soon. An animated red owl floats, sways its ears, flaps both wings, and blinks.</desc>
+  <defs>
+    <radialGradient id="sc-bodyGradient" gradientUnits="userSpaceOnUse" cx="420" cy="220" r="940" fx="385" fy="175">
+      <stop offset="0" stop-color="#f1514b" />
+      <stop offset="0.34" stop-color="#df4a44" />
+      <stop offset="0.72" stop-color="#c93d39" />
+      <stop offset="1" stop-color="#bf3634" />
+    </radialGradient>
+    <linearGradient id="sc-bodyDepth" gradientUnits="userSpaceOnUse" x1="627" y1="150" x2="627" y2="1080">
+      <stop offset="0" stop-color="#ff8b79" stop-opacity="0.05" />
+      <stop offset="0.5" stop-color="#8f1518" stop-opacity="0.02" />
+      <stop offset="1" stop-color="#761416" stop-opacity="0.08" />
+    </linearGradient>
+    <linearGradient id="sc-rightShade" gradientUnits="userSpaceOnUse" x1="300" y1="500" x2="1030" y2="630">
+      <stop offset="0.45" stop-color="#681013" stop-opacity="0" />
+      <stop offset="1" stop-color="#681013" stop-opacity="0.08" />
+    </linearGradient>
+    <radialGradient id="sc-leftWingGradient" gradientUnits="userSpaceOnUse" cx="205" cy="535" r="410" fx="205" fy="510">
+      <stop offset="0" stop-color="#f34b46" />
+      <stop offset="0.35" stop-color="#df4742" />
+      <stop offset="0.68" stop-color="#d13c39" />
+      <stop offset="1" stop-color="#c43132" />
+    </radialGradient>
+    <radialGradient id="sc-rightWingGradient" gradientUnits="userSpaceOnUse" cx="954" cy="526" r="430" fx="984" fy="508">
+      <stop offset="0" stop-color="#f24a45" />
+      <stop offset="0.32" stop-color="#d1413b" />
+      <stop offset="0.75" stop-color="#c33433" />
+      <stop offset="1" stop-color="#b72e30" />
+    </radialGradient>
+    <radialGradient id="sc-eyeGradient" cx="35%" cy="30%" r="78%">
+      <stop offset="0" stop-color="#091b29" />
+      <stop offset="0.62" stop-color="#020b15" />
+      <stop offset="1" stop-color="#00050c" />
+    </radialGradient>
+    <radialGradient id="sc-pupilGradient" cx="35%" cy="28%" r="75%">
+      <stop offset="0" stop-color="#02ead3" />
+      <stop offset="0.58" stop-color="#00dfca" />
+      <stop offset="1" stop-color="#00cbbd" />
+    </radialGradient>
+    <linearGradient id="sc-beakGradient" gradientUnits="userSpaceOnUse" x1="627" y1="490" x2="627" y2="580">
+      <stop offset="0" stop-color="#ff735e" />
+      <stop offset="0.42" stop-color="#fb6653" />
+      <stop offset="1" stop-color="#ef4d42" />
+    </linearGradient>
+    <radialGradient id="sc-leftFootGradient" gradientUnits="userSpaceOnUse" cx="480" cy="1030" r="115">
+      <stop offset="0" stop-color="#ec4743" />
+      <stop offset="0.6" stop-color="#dc3d3b" />
+      <stop offset="1" stop-color="#c62f31" />
+    </radialGradient>
+    <radialGradient id="sc-rightFootGradient" gradientUnits="userSpaceOnUse" cx="730" cy="1030" r="125">
+      <stop offset="0" stop-color="#e84642" />
+      <stop offset="0.6" stop-color="#d83b39" />
+      <stop offset="1" stop-color="#c12e30" />
+    </radialGradient>
+    <filter id="sc-wingShadowBlur" x="-30%" y="-25%" width="160%" height="150%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="9" />
+    </filter>
+    <filter id="sc-eyeShadow" x="-30%" y="-30%" width="160%" height="170%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#681215" flood-opacity="0.25" />
+    </filter>
+    <clipPath id="sc-bodyClip">
+      <path d="M321 293 C348 245 389 214 439 203 C492 171 559 155 620 153 C686 151 760 171 815 202 C865 214 906 246 933 293 C995 362 1032 451 1046 542 C1056 607 1054 680 1040 744 C1019 840 972 928 899 989 C830 1046 744 1073 628 1073 C511 1073 426 1047 355 989 C282 930 234 842 213 749 C199 687 198 613 209 547 C224 451 260 363 321 293 Z" />
+    </clipPath>
+    <clipPath id="sc-leftEarClip">
+      <path d="M439 203 C405 192 378 174 350 151 C339 142 329 137 319 142 C299 154 300 206 309 247 C316 282 321 315 342 338 C369 368 411 376 452 365 C495 354 526 334 536 307 C545 282 532 262 510 245 C488 227 463 213 439 203 Z" />
+    </clipPath>
+    <clipPath id="sc-rightEarClip">
+      <path d="M815 203 C849 192 876 174 904 151 C915 142 925 137 935 142 C955 154 954 206 945 247 C938 282 933 315 912 338 C885 368 843 376 802 365 C759 354 728 334 718 307 C709 282 722 262 744 245 C766 227 791 213 815 203 Z" />
+    </clipPath>
+    <style>
+      svg { overflow: visible; }
+      .sc-owl-icon { animation: sc-owl-float 4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .sc-owl-art { filter: drop-shadow(0 0 20px rgba(255,77,77,.4)); transform-box: fill-box; transform-origin: center; transform: scale(1); transition: transform .3s ease, filter .3s ease; }
+      .sc-owl-icon:hover, svg:hover .sc-owl-icon { animation-play-state: paused; }
+      .sc-owl-icon:hover .sc-owl-art, svg:hover .sc-owl-art { filter: drop-shadow(0 0 30px rgba(0,229,204,.6)); transform: scale(1.1); }
+      .sc-ear-left, .sc-ear-right { animation-duration: 2s; animation-timing-function: ease-in-out; animation-iteration-count: infinite; transform-box: view-box; }
+      .sc-ear-left { animation-name: sc-owl-ear-left; transform-origin: 405px 260px; }
+      .sc-ear-right { animation-name: sc-owl-ear-right; transform-origin: 849px 260px; }
+      #sc-left-wing, #sc-right-wing { animation-duration: 4s; animation-timing-function: ease-in-out; animation-iteration-count: infinite; transform-box: view-box; }
+      #sc-left-wing { animation-name: sc-owl-wing-left; transform-origin: 337px 582px; }
+      #sc-right-wing { animation-name: sc-owl-wing-right; transform-origin: 917px 582px; }
+      .sc-pupil-glow { animation: sc-owl-blink 3s ease-in-out infinite; }
+      @keyframes sc-owl-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3%); } }
+      @keyframes sc-owl-ear-left { 0%, 100% { transform: rotate(0); } 25% { transform: rotate(-3deg); } 75% { transform: rotate(3deg); } }
+      @keyframes sc-owl-ear-right { 0%, 100% { transform: rotate(0); } 25% { transform: rotate(3deg); } 75% { transform: rotate(-3deg); } }
+      @keyframes sc-owl-wing-left { 0%, 74%, 86%, 96%, 100% { transform: rotate(0); } 80%, 91% { transform: rotate(30deg); } }
+      @keyframes sc-owl-wing-right { 0%, 74%, 86%, 96%, 100% { transform: rotate(0); } 80%, 91% { transform: rotate(-30deg); } }
+      @keyframes sc-owl-blink { 0%, 86%, 94%, 100% { opacity: 1; } 90% { opacity: .3; } }
+      @media (prefers-reduced-motion: reduce) {
+        .sc-owl-icon, .sc-ear-left, .sc-ear-right, #sc-left-wing, #sc-right-wing, .sc-pupil-glow { animation: none !important; }
+        .sc-owl-art { transform: none; transition: none; }
+        .sc-owl-icon:hover .sc-owl-art, svg:hover .sc-owl-art { transform: none; filter: drop-shadow(0 0 30px rgba(0,229,204,.6)); }
+      }
+
+      .sc-wordmark { fill: #17171A; }
+      @media (prefers-color-scheme: dark) {
+        .sc-wordmark { fill: #EDEDED; }
+      }
+    </style>
+  </defs>
+  <g id="sc-mascot" transform="translate(2 -3) scale(0.2)">
+    <g class="sc-owl-icon">
+      <g class="sc-owl-art">
+        <g class="sc-ear-left">
+          <path class="sc-ear-shape" d="M439 203 C405 192 378 174 350 151 C339 142 329 137 319 142 C299 154 300 206 309 247 C316 282 321 315 342 338 C369 368 411 376 452 365 C495 354 526 334 536 307 C545 282 532 262 510 245 C488 227 463 213 439 203 Z" fill="url(#sc-bodyGradient)" vector-effect="non-scaling-stroke" />
+          <rect x="236" y="130" width="360" height="300" fill="url(#sc-bodyDepth)" clip-path="url(#sc-leftEarClip)" />
+          <rect x="236" y="130" width="360" height="300" fill="url(#sc-rightShade)" clip-path="url(#sc-leftEarClip)" />
+        </g>
+        <g class="sc-ear-right">
+          <path class="sc-ear-shape" d="M815 203 C849 192 876 174 904 151 C915 142 925 137 935 142 C955 154 954 206 945 247 C938 282 933 315 912 338 C885 368 843 376 802 365 C759 354 728 334 718 307 C709 282 722 262 744 245 C766 227 791 213 815 203 Z" fill="url(#sc-bodyGradient)" vector-effect="non-scaling-stroke" />
+          <rect x="658" y="130" width="360" height="300" fill="url(#sc-bodyDepth)" clip-path="url(#sc-rightEarClip)" />
+          <rect x="658" y="130" width="360" height="300" fill="url(#sc-rightShade)" clip-path="url(#sc-rightEarClip)" />
+        </g>
+        <g id="sc-body">
+          <path d="M321 293 C348 245 389 214 439 203 C492 171 559 155 620 153 C686 151 760 171 815 202 C865 214 906 246 933 293 C995 362 1032 451 1046 542 C1056 607 1054 680 1040 744 C1019 840 972 928 899 989 C830 1046 744 1073 628 1073 C511 1073 426 1047 355 989 C282 930 234 842 213 749 C199 687 198 613 209 547 C224 451 260 363 321 293 Z" fill="url(#sc-bodyGradient)" vector-effect="non-scaling-stroke" />
+          <rect x="198" y="140" width="860" height="935" fill="url(#sc-bodyDepth)" clip-path="url(#sc-bodyClip)" />
+          <rect x="198" y="140" width="860" height="935" fill="url(#sc-rightShade)" clip-path="url(#sc-bodyClip)" />
+        </g>
+        <g id="sc-wings">
+          <g id="sc-left-wing">
+            <path d="M255 494       C225 491 201 519 184 560       C169 600 165 649 169 699       C173 767 193 841 230 884       C241 897 253 899 264 891       C298 864 327 817 344 767       C366 702 359 638 337 582       C318 534 283 495 255 494 Z" fill="#771416" fill-opacity="0.2" transform="translate(8 7)" filter="url(#sc-wingShadowBlur)" clip-path="url(#sc-bodyClip)" />
+            <path d="M255 494       C225 491 201 519 184 560       C169 600 165 649 169 699       C173 767 193 841 230 884       C241 897 253 899 264 891       C298 864 327 817 344 767       C366 702 359 638 337 582       C318 534 283 495 255 494 Z" fill="url(#sc-leftWingGradient)" vector-effect="non-scaling-stroke" />
+          </g>
+          <g id="sc-right-wing">
+            <path d="M1000 494       C1029 491 1053 519 1070 560       C1084 600 1088 649 1084 699       C1081 767 1061 841 1024 884       C1013 897 1001 899 990 891       C956 864 927 817 910 767       C888 702 895 638 917 582       C936 534 971 495 1000 494 Z" fill="#771416" fill-opacity="0.2" transform="translate(-8 7)" filter="url(#sc-wingShadowBlur)" clip-path="url(#sc-bodyClip)" />
+            <path d="M1000 494       C1029 491 1053 519 1070 560       C1084 600 1088 649 1084 699       C1081 767 1061 841 1024 884       C1013 897 1001 899 990 891       C956 864 927 817 910 767       C888 702 895 638 917 582       C936 534 971 495 1000 494 Z" fill="url(#sc-rightWingGradient)" vector-effect="non-scaling-stroke" />
+          </g>
+        </g>
+        <g id="sc-eyes" filter="url(#sc-eyeShadow)">
+          <circle cx="489" cy="420" r="55" fill="url(#sc-eyeGradient)" />
+          <circle cx="767" cy="420" r="55" fill="url(#sc-eyeGradient)" />
+          <circle class="sc-pupil-glow" cx="499" cy="411" r="19" fill="url(#sc-pupilGradient)" />
+          <circle class="sc-pupil-glow" cx="776" cy="411" r="19" fill="url(#sc-pupilGradient)" />
+        </g>
+        <path id="sc-beak" d="M595 491            C588 491 584 494 583 499            C582 503 584 509 587 515            L617 572            C620 578 624 580 628 579            C632 579 635 575 638 570            L669 511            C672 505 672 500 669 496            C666 492 662 491 655 491 Z" fill="url(#sc-beakGradient)" />
+        <g id="sc-feet">
+          <path id="sc-left-foot" d="M505 1019              C472 1019 443 1044 441 1076              C440 1090 447 1100 458 1102              C469 1103 479 1095 484 1084              C489 1096 496 1101 506 1101              C517 1101 525 1095 529 1084              C535 1095 543 1101 553 1101              C563 1101 569 1093 567 1081              C565 1047 539 1019 505 1019 Z" fill="url(#sc-leftFootGradient)" vector-effect="non-scaling-stroke" />
+          <path id="sc-right-foot" d="M749 1019              C716 1019 689 1046 687 1080              C686 1092 692 1101 702 1102              C712 1102 720 1096 725 1084              C730 1096 738 1101 748 1101              C759 1101 767 1095 772 1084              C777 1095 786 1102 796 1102              C807 1101 814 1092 812 1079              C810 1046 783 1019 749 1019 Z" fill="url(#sc-rightFootGradient)" vector-effect="non-scaling-stroke" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="sc-wordmark sc-wordmark-title" fill="#17171A" aria-hidden="true" transform="translate(252 121) scale(0.10500000 -0.10500000)" data-outline-width="498.120">
+    <path d="M181 509Q181 476 203.5 455.5Q226 435 262.0 425.0Q298 415 341.5 407.0Q385 399 428.0 386.5Q471 374 507.0 354.5Q543 335 565.5 295.5Q588 256 588 200Q588 99 514.0 42.0Q440 -15 322 -15Q203 -15 126.5 40.5Q50 96 31 205H172Q198 93 323 93Q385 93 417.5 117.0Q450 141 450 183Q450 218 427.5 240.5Q405 263 369.5 274.0Q334 285 290.5 293.5Q247 302 203.5 314.5Q160 327 124.5 346.0Q89 365 66.5 403.5Q44 442 44 497Q44 582 110.5 638.5Q177 695 294 695Q403 695 478.0 640.5Q553 586 569 476H426Q403 587 290 587Q239 587 210.0 566.0Q181 545 181 509Z" />
+    <path d="M59 0V720H187V0Z" transform="translate(589 0)" />
+    <path d="M548 175Q527 83 460.0 34.0Q393 -15 295 -15Q174 -15 104.0 60.5Q34 136 34 267Q34 402 103.0 476.5Q172 551 290.0 551.0Q408 551 476.0 476.5Q544 402 544 272V242H166Q171 168 204.0 129.0Q237 90 295 90Q388 90 413 175ZM290 446Q187 446 169 322H410Q391 446 290 446Z" transform="translate(804 0)" />
+    <path d="M548 175Q527 83 460.0 34.0Q393 -15 295 -15Q174 -15 104.0 60.5Q34 136 34 267Q34 402 103.0 476.5Q172 551 290.0 551.0Q408 551 476.0 476.5Q544 402 544 272V242H166Q171 168 204.0 129.0Q237 90 295 90Q388 90 413 175ZM290 446Q187 446 169 322H410Q391 446 290 446Z" transform="translate(1355 0)" />
+    <path d="M187 -220H59V536H187V475Q240 551 328 551Q433 551 493.5 475.5Q554 400 554 269Q554 134 493.5 59.5Q433 -15 328 -15Q237 -15 187 58ZM305 445Q247 445 217.0 400.0Q187 355 187 269Q187 184 218.0 137.5Q249 91 305 91Q362 91 392.0 137.0Q422 183 422 269Q422 354 391.5 399.5Q361 445 305 445Z" transform="translate(1906 0)" />
+    <path d="M657 470H516Q500 525 460.0 554.0Q420 583 362 583Q277 583 229.5 518.0Q182 453 182.0 339.0Q182 225 229.0 161.0Q276 97 362 97Q417 97 457.0 125.0Q497 153 514 205H656Q630 101 550.5 43.0Q471 -15 364 -15Q215 -15 129.5 79.5Q44 174 44 339Q44 503 130.5 599.0Q217 695 366 695Q475 695 554.5 636.5Q634 578 657 470Z" transform="translate(2464 0)" />
+    <path d="M59 0V720H187V0Z" transform="translate(3125 0)" />
+    <path d="M183 360H54Q67 450 129.5 500.5Q192 551 293 551Q402 551 460.0 493.0Q518 435 518 339V131Q518 45 534 0H401Q392 24 390 73Q328 -15 216 -15Q135 -15 85.5 25.0Q36 65 36 140Q36 254 159 295Q246 324 389 326V339Q389 445 285 445Q241 445 215.0 422.5Q189 400 183 360ZM165 147Q165 116 187.5 98.0Q210 80 249 80Q308 80 348.5 122.0Q389 164 389 224V247Q262 245 213.5 219.0Q165 193 165 147Z" transform="translate(3340 0)" />
+    <path d="M533 0 436 359 426 422 414 359 318 0H159L10 536H147L233 158L246 93L261 158L364 536H497L600 158L613 95L625 158L712 536H843L693 0Z" transform="translate(3891 0)" />
+  </g>
+  <g class="sc-wordmark sc-wordmark-subtitle" fill="#17171A" aria-hidden="true" transform="translate(257 174) scale(0.03100000 -0.03100000)" data-outline-width="198.214">
+    <path d="M657 470H516Q500 525 460.0 554.0Q420 583 362 583Q277 583 229.5 518.0Q182 453 182.0 339.0Q182 225 229.0 161.0Q276 97 362 97Q417 97 457.0 125.0Q497 153 514 205H656Q630 101 550.5 43.0Q471 -15 364 -15Q215 -15 129.5 79.5Q44 174 44 339Q44 503 130.5 599.0Q217 695 366 695Q475 695 554.5 636.5Q634 578 657 470Z" />
+    <path d="M291 -15Q172 -15 103.0 60.5Q34 136 34 267Q34 402 103.0 476.5Q172 551 291.0 551.0Q410 551 478.5 475.0Q547 399 547 267Q547 134 478.0 59.5Q409 -15 291 -15ZM291 445Q230 445 198.0 399.5Q166 354 166 267Q166 182 198.0 136.5Q230 91 291.0 91.0Q352 91 383.5 136.0Q415 181 415.0 267.0Q415 353 383.0 399.0Q351 445 291 445Z" transform="translate(701 0)" />
+    <path d="M59 0V536H187V467Q238 551 336 551Q444 551 484 460Q538 551 646 551Q726 551 772.5 501.5Q819 452 819 357V0H691V331Q691 445 607 445Q560 445 531.5 406.0Q503 367 503 311V0H375V331Q375 445 291 445Q244 445 215.5 406.0Q187 367 187 311V0Z" transform="translate(1292 0)" />
+    <path d="M59 596V720H187V596ZM59 0V536H187V0Z" transform="translate(2180 0)" />
+    <path d="M59 0V536H187V464Q240 551 346 551Q429 551 477.5 501.5Q526 452 526 357V0H398V331Q398 445 302 445Q250 445 218.5 406.0Q187 367 187 311V0Z" transform="translate(2435 0)" />
+    <path d="M254 -2Q152 -2 93.0 72.0Q34 146 34 274Q34 406 93.0 478.5Q152 551 254 551Q350 551 401 482V536H529V-17Q529 -122 464.5 -179.0Q400 -236 296 -236Q194 -236 128.5 -188.5Q63 -141 49 -48H178Q184 -90 215.0 -112.5Q246 -135 294 -135Q401 -135 401 -19V71Q348 -2 254 -2ZM283 104Q341 104 371.0 147.5Q401 191 401 274Q401 356 370.0 400.5Q339 445 283 445Q226 445 196.0 401.0Q166 357 166 274Q166 192 196.0 148.0Q226 104 283 104Z" transform="translate(3030 0)" />
+    <path d="M166 392Q166 364 191.0 347.0Q216 330 253.5 324.5Q291 319 335.0 309.5Q379 300 416.5 287.0Q454 274 479.0 241.0Q504 208 504 158Q504 81 440.0 33.0Q376 -15 275 -15Q173 -15 108.0 33.0Q43 81 29 175H157Q164 132 196.0 108.0Q228 84 279 84Q325 84 350.0 102.0Q375 120 375 150Q375 178 350.5 194.0Q326 210 289.0 215.5Q252 221 209.5 230.5Q167 240 130.0 253.0Q93 266 68.5 299.5Q44 333 44 384Q44 454 98.0 502.5Q152 551 252 551Q349 551 410.5 503.5Q472 456 484 360H356Q342 451 247 451Q210 451 188.0 434.5Q166 418 166 392Z" transform="translate(3830 0)" />
+    <path d="M291 -15Q172 -15 103.0 60.5Q34 136 34 267Q34 402 103.0 476.5Q172 551 291.0 551.0Q410 551 478.5 475.0Q547 399 547 267Q547 134 478.0 59.5Q409 -15 291 -15ZM291 445Q230 445 198.0 399.5Q166 354 166 267Q166 182 198.0 136.5Q230 91 291.0 91.0Q352 91 383.5 136.0Q415 181 415.0 267.0Q415 353 383.0 399.0Q351 445 291 445Z" transform="translate(4372 0)" />
+    <path d="M291 -15Q172 -15 103.0 60.5Q34 136 34 267Q34 402 103.0 476.5Q172 551 291.0 551.0Q410 551 478.5 475.0Q547 399 547 267Q547 134 478.0 59.5Q409 -15 291 -15ZM291 445Q230 445 198.0 399.5Q166 354 166 267Q166 182 198.0 136.5Q230 91 291.0 91.0Q352 91 383.5 136.0Q415 181 415.0 267.0Q415 353 383.0 399.0Q351 445 291 445Z" transform="translate(4963 0)" />
+    <path d="M59 0V536H187V464Q240 551 346 551Q429 551 477.5 501.5Q526 452 526 357V0H398V331Q398 445 302 445Q250 445 218.5 406.0Q187 367 187 311V0Z" transform="translate(5554 0)" />
+    <path d="M52 0V141H193V0Z" transform="translate(6149 0)" />
+  </g>
+</svg>
