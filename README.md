@@ -22,7 +22,7 @@
 
 <br>
 
-[👋 About](#about) · [💻 Software](#software-development) · [📊 Data](#data-analytics) · [🤖 Agents](#agents) · [🧭 Principles](#principles) · [🛠 Stack](#stack)
+[👋 About](#about) · [💻 Software](#software-development) · [📊 Data](#data-analytics) · [🤖 Agents](#agents) · [🛠 Stack](#stack)
 
 </div>
 
@@ -236,20 +236,6 @@ I chose Markdown contracts for the context layer. Product discussion becomes `SP
 I want the framework to serve maintainers of complex projects and grow into an Agent project-governance layer that checks context consistency, permission boundaries, decision records, and reliable restart points.
 
 </details>
-
----
-
-<a id="principles"></a>
-## 🧭 How I build
-
-| <div align="center">Principle</div> | <div align="center">What it means in practice</div> |
-|---|---|
-| **Start with lived friction** | A project should begin with a problem I can describe concretely |
-| **Make evidence visible** | Assumptions, costs, failed experiments, and limits belong beside results |
-| **Keep control legible** | Local files, private accounts, and irreversible decisions need explicit boundaries |
-| **Compress the interface** | The smallest useful interaction is often the most durable one |
-| **Design for reuse** | A repeated workflow should become a tool, framework, or Skill |
-| **Think long term** | I value systems, knowledge, and assets that can compound over time |
 
 ---
 
