@@ -47,7 +47,7 @@ I like starting with a real problem: a repetitive action, a vague product questi
 
 This profile follows three lines of work. Every repository begins with a concrete problem and carries my product judgment about trade-offs, evidence, and what the product could become.
 
-| Line of work | What I care about |
+| <div align="center">Line of work</div> | <div align="center">What I care about</div> |
 |---|---|
 | **Software development** | Remove recurring friction with small, usable tools |
 | **Data analytics** | Make assumptions, costs, failures, and decisions inspectable |
@@ -64,7 +64,7 @@ This profile follows three lines of work. Every repository begins with a concret
 
 I build focused tools around problems I have actually encountered.
 
-| Project | Product idea | Stars |
+| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
 |---|---|---:|
 | [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought | [![Stars](https://img.shields.io/github/stars/okht/clip-md?style=social)](https://github.com/okht/clip-md) |
 | [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving | [![Stars](https://img.shields.io/github/stars/okht/gmail-inbox-system-public?style=social)](https://github.com/okht/gmail-inbox-system-public) |
@@ -118,7 +118,7 @@ I use analysis to challenge intuition, record uncertainty, and make decisions ea
 
 > The investment and trading projects document personal research. They do not provide financial advice.
 
-| Project | Product idea | Stars |
+| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
 |---|---|---:|
 | [**quant-research**](https://github.com/okht/quant-research) | A reusable research framework that records assumptions, costs, failed experiments, and validation limits | [![Stars](https://img.shields.io/github/stars/okht/quant-research?style=social)](https://github.com/okht/quant-research) |
 | [**crypto-trading-research**](https://github.com/okht/crypto-trading-research) | Test whether active BTC strategies add enough value to justify their cost and effort against long-term holding | [![Stars](https://img.shields.io/github/stars/okht/crypto-trading-research?style=social)](https://github.com/okht/crypto-trading-research) |
@@ -184,7 +184,7 @@ I want the project to serve AI product leaders and grow into an AI experience mo
 
 I build agent systems around workflows that benefit from reusable context, tools, and judgment.
 
-| Project | Product idea | Stars |
+| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
 |---|---|---:|
 | [**readme-craft**](https://github.com/okht/readme-craft) | Build and maintain public READMEs from repository evidence, with multilingual and visual validation | [![Stars](https://img.shields.io/github/stars/okht/readme-craft?style=social)](https://github.com/okht/readme-craft) |
 | [**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
@@ -248,7 +248,7 @@ I want the framework to serve maintainers of complex projects and grow into an A
 <a id="principles"></a>
 ## 🧭 How I build
 
-| Principle | What it means in practice |
+| <div align="center">Principle</div> | <div align="center">What it means in practice</div> |
 |---|---|
 | **Start with lived friction** | A project should begin with a problem I can describe concretely |
 | **Make evidence visible** | Assumptions, costs, failed experiments, and limits belong beside results |
