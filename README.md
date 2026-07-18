@@ -89,8 +89,6 @@ I want it to develop into a personal investment data console covering more asset
 </details>
 
 
----
-
 <a id="data-analytics"></a>
 <img src="assets/profile/headings/heading-data-analytics-v2.svg" alt="Data analytics" height="36" />
 
@@ -157,8 +155,6 @@ I want the project to serve AI product leaders and grow into an AI experience mo
 
 </details>
 
-
----
 
 <a id="agents"></a>
 <img src="assets/profile/headings/heading-agents-v2.svg" alt="Agents" height="36" />
