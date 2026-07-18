@@ -238,6 +238,6 @@ I want the framework to serve maintainers of complex projects and grow into an A
 
 <div align="center">
 
-Thanks for stopping by. Explore any project that catches your eye.
+<img src="assets/profile/footer-made-by-cht-v1.svg" alt="Made by CHT © 2026" height="28" />
 
 </div>
