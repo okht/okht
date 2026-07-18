@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="843"
+     height="774"
+     viewBox="186 193 843 774"
+     role="img"
+     aria-labelledby="title desc"
+     shape-rendering="crispEdges">
+  <title id="title">Pixel-art portrait</title>
+  <desc id="desc">Transparent, tightly cropped vector reconstruction of the supplied pixel-art portrait.</desc>
+
+  <!-- Outer silhouette -->
+  <path fill="#000000" d="
+    M395 193H878V247H825V357H878V527H931V582H984V752H1029V866
+    H984V922H931V967H399V922H291V866H238V809H186V414H238V357
+    H291V303H344V247H395Z
+  "/>
+
+  <!-- Light skin blocks -->
+  <g fill="#F2E6DA">
+    <path d="
+      M395 303H558V357H395Z
+      M665 303H772V357H665Z
+      M344 357H505V414H344Z
+      M558 357H612V414H558Z
+      M719 357H772V414H719Z
+      M344 414H558V527H344Z
+      M395 527H558V582H395Z
+      M825 527H931V582H825Z
+      M452 582H719V639H452Z
+      M772 582H984V639H772Z
+      M665 639H772V695H665Z
+    "/>
+  </g>
+
+  <!-- Peach shadow blocks -->
+  <g fill="#E9BD9B">
+    <path d="
+      M612 357H665V386H612Z
+      M558 414H586V552H558Z
+      M238 527H291V582H238Z
+      M238 582H344V695H238Z
+      M344 527H395V582H344Z
+      M395 582H452V639H395Z
+      M452 639H558V695H452Z
+      M719 582H772V639H719Z
+      M772 639H984V695H772Z
+    "/>
+  </g>
+
+  <!-- Eye whites -->
+  <g fill="#FFFFFF">
+    <path d="M613 414H718V470H744V552H613Z"/>
+    <path d="M773 414H851V470H825V527H773Z"/>
+  </g>
+
+  <!-- Left pupil -->
+  <rect x="665" y="470" width="53" height="57" fill="#000000"/>
+
+  <!-- Clothing cut-outs -->
+  <g fill="#FFFFFF">
+    <rect x="559" y="695" width="27" height="87"/>
+    <rect x="613" y="695" width="52" height="87"/>
+    <rect x="693" y="752" width="51" height="57"/>
+    <rect x="773" y="752" width="52" height="57"/>
+    <rect x="856" y="752" width="22" height="57"/>
+    <rect x="613" y="809" width="52" height="57"/>
+    <rect x="693" y="837" width="51" height="29"/>
+    <rect x="773" y="837" width="52" height="29"/>
+  </g>
+</svg>

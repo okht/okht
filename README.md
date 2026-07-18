@@ -34,7 +34,7 @@
 
 ### 📬 Find Me
 
-<a href="https://cht.me"><img src="assets/profile/cht-me-v2.svg" alt="cht.me" height="52" /></a>
+<a href="https://cht.me"><img src="assets/profile/cht-me-v3.svg" alt="cht.me" height="52" /></a>
 
 ---
 
