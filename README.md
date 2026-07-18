@@ -28,7 +28,7 @@
 
 <br>
 
-<a href="https://cht.me"><img src="assets/profile/cht-me-v3.svg" alt="cht.me" height="52" /></a> [![GitHub followers](https://img.shields.io/github/followers/okht?style=social)](https://github.com/okht) [![GitHub Stars](https://img.shields.io/github/stars/okht?style=social&label=Stars)](https://github.com/okht?tab=repositories)
+<a href="https://cht.me"><img src="assets/profile/cht-me-v3.svg" alt="cht.me" height="52" /></a>
 
 ---
 
