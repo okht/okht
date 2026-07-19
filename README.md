@@ -48,7 +48,7 @@ I build focused tools around problems I have actually encountered.
 | [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought | [![Stars](https://img.shields.io/github/stars/okht/clip-md?style=social)](https://github.com/okht/clip-md) |
 | [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving | [![Stars](https://img.shields.io/github/stars/okht/gmail-inbox-system-public?style=social)](https://github.com/okht/gmail-inbox-system-public) |
 | [**okx-btc-daily-report-public**](https://github.com/okht/okx-btc-daily-report-public) | Recalculate the BTC DCA metrics I care about from read-only trades and deliver them by email | [![Stars](https://img.shields.io/github/stars/okht/okx-btc-daily-report-public?style=social)](https://github.com/okht/okx-btc-daily-report-public) |
-| <img src="assets/profile/project-icons/majsoul-windows-daily-login.svg" height="20" alt="" />&nbsp;[**majsoul-windows-daily-login**](https://github.com/okht/majsoul-windows-daily-login) | Open Mahjong Soul once a day on Windows on a passive local schedule, confirm the lobby without synthetic input, then exit | [![Stars](https://img.shields.io/github/stars/okht/majsoul-windows-daily-login?style=social)](https://github.com/okht/majsoul-windows-daily-login) |
+| <img src="assets/profile/project-icons/majsoul-windows-daily-login.svg" height="20" alt="" />&nbsp;[**majsoul-windows-daily-login**](https://github.com/okht/majsoul-windows-daily-login) | Keep a paid Mahjong Soul monthly pass from going to waste with a quiet daily open on Windows—no login bot | [![Stars](https://img.shields.io/github/stars/okht/majsoul-windows-daily-login?style=social)](https://github.com/okht/majsoul-windows-daily-login) |
 
 <details>
 <summary><strong>clip-md</strong> — Copy what matters. Keep it as Markdown.</summary>
@@ -90,7 +90,7 @@ I want it to develop into a personal investment data console covering more asset
 </details>
 
 <details>
-<summary><strong>majsoul-windows-daily-login</strong> — Open once. Touch nothing.</summary>
+<summary><strong>majsoul-windows-daily-login</strong> — Don't waste the monthly pass.</summary>
 
 <br>
 
