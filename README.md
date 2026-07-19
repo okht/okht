@@ -48,6 +48,7 @@ I build focused tools around problems I have actually encountered.
 | [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought | [![Stars](https://img.shields.io/github/stars/okht/clip-md?style=social)](https://github.com/okht/clip-md) |
 | [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving | [![Stars](https://img.shields.io/github/stars/okht/gmail-inbox-system-public?style=social)](https://github.com/okht/gmail-inbox-system-public) |
 | [**okx-btc-daily-report-public**](https://github.com/okht/okx-btc-daily-report-public) | Recalculate the BTC DCA metrics I care about from read-only trades and deliver them by email | [![Stars](https://img.shields.io/github/stars/okht/okx-btc-daily-report-public?style=social)](https://github.com/okht/okx-btc-daily-report-public) |
+| [**majsoul-windows-daily-login**](https://github.com/okht/majsoul-windows-daily-login) | Open Mahjong Soul once a day on Windows on a passive local schedule, confirm the lobby without synthetic input, then exit | [![Stars](https://img.shields.io/github/stars/okht/majsoul-windows-daily-login?style=social)](https://github.com/okht/majsoul-windows-daily-login) |
 
 <details>
 <summary><strong>clip-md</strong> — Copy what matters. Keep it as Markdown.</summary>
@@ -85,6 +86,19 @@ I built OKX BTC Daily Report because I follow my own BTC DCA strategy. The excha
 The workflow reads trade data through read-only access and recalculates daily, 7-day, 30-day, and cumulative views with my own definitions. Split fills, fees, and quote currencies make manual tracking drift over time, so the rules need to run consistently. I chose email delivery because the report should arrive inside an existing routine without asking me to maintain another dashboard.
 
 I want it to develop into a personal investment data console covering more assets, time windows, metrics, and visual views. The public repository is a sanitized reference implementation: it contains no API keys, cannot see my OKX account, and does not execute trades.
+
+</details>
+
+<details>
+<summary><strong>majsoul-windows-daily-login</strong> — Open once. Touch nothing.</summary>
+
+<br>
+
+I built `majsoul-windows-daily-login` because opening Mahjong Soul once a day had become a small recurring tax. It was easy to forget, and the fix I refused was a bot that clicks login, types secrets, or fights captchas. I wanted the machine to open the official client on a local morning window, then leave the rest alone.
+
+The product judgment is deliberately narrow. The scheduled path reuses a dedicated Edge profile, confirms the lobby with read-only fingerprints and accessible text, and never synthesizes input. After success it dwells briefly and exits. Optional mail fires only on failure or a manual block; success stays silent so a healthy day does not create noise.
+
+I want this to remain a private local tool for my own routine. The public repository is the implementation and its boundaries, not a growth product: no cloud browser, no credential harvesting, and no attempt to look more human than a plain daily open.
 
 </details>
 
