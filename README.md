@@ -94,11 +94,11 @@ I want it to develop into a personal investment data console covering more asset
 
 <br>
 
-I built `majsoul-windows-daily-login` because opening Mahjong Soul once a day had become a small recurring tax. It was easy to forget, and the fix I refused was a bot that clicks login, types secrets, or fights captchas. I wanted the machine to open the official client on a local morning window, then leave the rest alone.
+I built `majsoul-windows-daily-login` after buying a Mahjong Soul monthly pass and watching it go to waste. Work and study kept the day full, so the daily check-in was easy to miss even when I intended to open the client. The product problem was not “play more”; it was stop leaking value I had already paid for, with as little daily attention as possible.
 
-The product judgment is deliberately narrow. The scheduled path reuses a dedicated Edge profile, confirms the lobby with read-only fingerprints and accessible text, and never synthesizes input. After success it dwells briefly and exits. Optional mail fires only on failure or a manual block; success stays silent so a healthy day does not create noise.
+I first tried to bind the habit to the phone, because that is the device I touch most often. I dropped that path: iOS is a poor fit for this kind of local automation, and I did not want a cloud bot that logs in, clicks, or handles captchas for me. Windows became the practical surface. The scheduled path reuses a dedicated Edge profile, opens the official client in a local morning window, confirms the lobby with read-only fingerprints and accessible text, and never synthesizes input. After success it dwells briefly and exits. Optional mail fires only on failure or a manual block; a healthy day stays silent.
 
-I want this to remain a private local tool for my own routine. The public repository is the implementation and its boundaries, not a growth product: no cloud browser, no credential harvesting, and no attempt to look more human than a plain daily open.
+I want this to remain a private, low-interrupt tool for my own routine. The public repository is the implementation and its boundaries—not a growth product, and not an attempt to look more human than a plain daily open.
 
 </details>
 
