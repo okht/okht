@@ -177,8 +177,22 @@ I build agent systems around workflows that benefit from reusable context, tools
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
 |---|---|---:|
+| [**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me | [![Stars](https://img.shields.io/github/stars/okht/grill-powers?style=social)](https://github.com/okht/grill-powers) |
 | [**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
 | [**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
+
+<details>
+<summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
+
+<br>
+
+I built `grill-powers` after using Superpowers on product work and watching product questions mix with technical ones. Without an engineering background, it is hard to tell which answers are product decisions. Each new technical option can reopen scope, so the requirement list grows and rarely shrinks.
+
+The skill joins Grill Me and Superpowers with hard stage gates. Grill Me settles product decisions one at a time and freezes an approved product spec. Superpowers owns technical design, the plan, build, review, and fresh checks. If design or coding finds a real product change, work pauses, returns to Grill Me, and re-walks approve → spec → plan before resume.
+
+I want it to serve product managers and solo builders who need Agents for delivery without giving up product control when scope shifts mid-build.
+
+</details>
 
 <details>
 <summary><strong>desktop-organizer</strong> — See every move before anything moves.</summary>
