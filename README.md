@@ -178,8 +178,8 @@ I build agent systems around workflows that benefit from reusable context, tools
 | <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
 |---|---|---:|
 | [**grill-powers**](https://github.com/okht/grill-powers)&nbsp;<img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" /> | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me | [![Stars](https://img.shields.io/github/stars/okht/grill-powers?style=social)](https://github.com/okht/grill-powers) |
-| [**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
-| [**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
+| [**desktop-organizer**](https://github.com/okht/desktop-organizer)&nbsp;<img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" /> | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
+| [**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework)&nbsp;<img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" /> | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
 
 <details>
 <summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
