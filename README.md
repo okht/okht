@@ -45,9 +45,9 @@ I build agent systems around workflows that benefit from reusable context, tools
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me | [![Stars](https://img.shields.io/github/stars/okht/grill-powers?style=social)](https://github.com/okht/grill-powers) |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
+| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me |
+| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification |
+| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions |
 
 <details>
 <summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
@@ -95,10 +95,10 @@ I build focused tools around problems I have actually encountered.
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
-| [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought | [![Stars](https://img.shields.io/github/stars/okht/clip-md?style=social)](https://github.com/okht/clip-md) |
-| [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving | [![Stars](https://img.shields.io/github/stars/okht/gmail-inbox-system-public?style=social)](https://github.com/okht/gmail-inbox-system-public) |
-| [**okx-btc-daily-report-public**](https://github.com/okht/okx-btc-daily-report-public) | Recalculate the BTC DCA metrics I care about from read-only trades and deliver them by email | [![Stars](https://img.shields.io/github/stars/okht/okx-btc-daily-report-public?style=social)](https://github.com/okht/okx-btc-daily-report-public) |
-| <img src="assets/profile/project-icons/majsoul-windows-daily-login.svg" height="20" alt="" />&nbsp;[**majsoul-windows-daily-login**](https://github.com/okht/majsoul-windows-daily-login) | Keep a paid Mahjong Soul monthly pass from going to waste with a quiet daily open on Windows, without a login bot | [![Stars](https://img.shields.io/github/stars/okht/majsoul-windows-daily-login?style=social)](https://github.com/okht/majsoul-windows-daily-login) |
+| [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought |
+| [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving |
+| [**okx-btc-daily-report-public**](https://github.com/okht/okx-btc-daily-report-public) | Recalculate the BTC DCA metrics I care about from read-only trades and deliver them by email |
+| <img src="assets/profile/project-icons/majsoul-windows-daily-login.svg" height="20" alt="" />&nbsp;[**majsoul-windows-daily-login**](https://github.com/okht/majsoul-windows-daily-login) | Keep a paid Mahjong Soul monthly pass from going to waste with a quiet daily open on Windows, without a login bot |
 
 <details>
 <summary><strong>clip-md</strong> — Copy what matters. Keep it as Markdown.</summary>
@@ -161,10 +161,10 @@ I use analysis to challenge intuition, record uncertainty, and make decisions ea
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
-| [**quant-research**](https://github.com/okht/quant-research) | A reusable research framework that records assumptions, costs, failed experiments, and validation limits | [![Stars](https://img.shields.io/github/stars/okht/quant-research?style=social)](https://github.com/okht/quant-research) |
-| [**crypto-trading-research**](https://github.com/okht/crypto-trading-research) | Test whether active BTC strategies add enough value to justify their cost and effort against long-term holding | [![Stars](https://img.shields.io/github/stars/okht/crypto-trading-research?style=social)](https://github.com/okht/crypto-trading-research) |
-| [**ecommerce-user-analysis**](https://github.com/okht/ecommerce-user-analysis) | Turn historical transactions into customer segments and growth hypotheses through RFM and K-Means | [![Stars](https://img.shields.io/github/stars/okht/ecommerce-user-analysis?style=social)](https://github.com/okht/ecommerce-user-analysis) |
-| [**ai-chat-analytics**](https://github.com/okht/ai-chat-analytics) | Link conversation behavior, issue attribution, and follow-up signals to AI product priorities | [![Stars](https://img.shields.io/github/stars/okht/ai-chat-analytics?style=social)](https://github.com/okht/ai-chat-analytics) |
+| [**quant-research**](https://github.com/okht/quant-research) | A reusable research framework that records assumptions, costs, failed experiments, and validation limits |
+| [**crypto-trading-research**](https://github.com/okht/crypto-trading-research) | Test whether active BTC strategies add enough value to justify their cost and effort against long-term holding |
+| [**ecommerce-user-analysis**](https://github.com/okht/ecommerce-user-analysis) | Turn historical transactions into customer segments and growth hypotheses through RFM and K-Means |
+| [**ai-chat-analytics**](https://github.com/okht/ai-chat-analytics) | Link conversation behavior, issue attribution, and follow-up signals to AI product priorities |
 
 <details>
 <summary><strong>quant-research</strong> — Keep the evidence, including the failures.</summary>
