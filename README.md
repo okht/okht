@@ -20,7 +20,7 @@
 <a id="about"></a>
 <img src="assets/profile/headings/heading-about-me-v5.svg" alt="About me" height="36" />
 
-I am a product manager and interest-driven developer exploring AI agents, software, and data analytics through open-source projects.
+Hi, I'm CHT. I graduated from The Hong Kong Polytechnic University. I am a product manager and interest-driven developer exploring AI agents, software, and data analytics through open-source projects.
 
 I like starting with a real problem: a repetitive action, a vague product question, or a workflow that keeps losing context. I turn it into a product, then use code and data to make it tangible and testable.
 
