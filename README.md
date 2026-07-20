@@ -7,7 +7,7 @@
 <a href="https://www.polyu.edu.hk/"><img src="assets/profile/hi-cht-polyu-v10.svg" alt="Hi, I'm CHT — The Hong Kong Polytechnic University" height="60" /></a>
 <img src="assets/profile/role-subtitle-v3.svg" alt="Product manager · Interest-driven developer" height="34" />
 
-<a href="#about"><img src="assets/profile/nav/nav-about-v7.svg" alt="About" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#software-development"><img src="assets/profile/nav/nav-software-v4.svg" alt="Software" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#data-analytics"><img src="assets/profile/nav/nav-data-v4.svg" alt="Data" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#agents"><img src="assets/profile/nav/nav-agents-v4.svg" alt="Agents" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#stack"><img src="assets/profile/nav/nav-stack-v7.svg" alt="Stack" height="22" /></a>
+<a href="#about"><img src="assets/profile/nav/nav-about-v7.svg" alt="About" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#agents"><img src="assets/profile/nav/nav-agents-v4.svg" alt="Agents" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#software-development"><img src="assets/profile/nav/nav-software-v4.svg" alt="Software" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#data-analytics"><img src="assets/profile/nav/nav-data-v4.svg" alt="Data" height="22" /></a> <img src="assets/profile/nav/nav-dot-v4.svg" alt="" height="18" /> <a href="#stack"><img src="assets/profile/nav/nav-stack-v7.svg" alt="Stack" height="22" /></a>
 
 </div>
 
@@ -28,15 +28,65 @@ This profile follows three lines of work. Every repository begins with a concret
 
 | <div align="center">Line of work</div> | <div align="center">What I care about</div> |
 |---|---|
+| **Agents** | Combine reusable context, tools, and judgment around repeatable workflows |
 | **Software development** | Remove recurring friction with small, usable tools |
 | **Data analytics** | Make assumptions, costs, failures, and decisions inspectable |
-| **Agents** | Combine reusable context, tools, and judgment around repeatable workflows |
 
 ---
 
 <p align="center">
   <img src="assets/sleepclaw/sleepclaw-coming-soon-v8.svg" alt="SleepClaw — Coming soon." width="820" />
 </p>
+
+<a id="agents"></a>
+<img src="assets/profile/headings/heading-agents-v2.svg" alt="Agents" height="36" />
+
+I build agent systems around workflows that benefit from reusable context, tools, and judgment.
+
+| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
+|---|---|---:|
+| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me | [![Stars](https://img.shields.io/github/stars/okht/grill-powers?style=social)](https://github.com/okht/grill-powers) |
+| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
+| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
+
+<details>
+<summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
+
+<br>
+
+I built `grill-powers` after using Superpowers on product work and watching product questions mix with technical ones. Without an engineering background, it is hard to tell which answers are product decisions. Each new technical option can reopen scope, so the requirement list grows and rarely shrinks.
+
+The skill joins Grill Me and Superpowers with hard stage gates. Grill Me settles product decisions one at a time and freezes an approved product spec. Superpowers owns technical design, the plan, build, review, and fresh checks. If design or coding finds a real product change, work pauses, returns to Grill Me, and re-walks approve → spec → plan before resume.
+
+I want it to serve product managers and solo builders who need Agents for delivery without giving up product control when scope shifts mid-build.
+
+</details>
+
+<details>
+<summary><strong>desktop-organizer</strong> — See every move before anything moves.</summary>
+
+<br>
+
+I built `desktop-organizer` from my own need to clean a Windows Desktop filled with documents, screenshots, installers, archives, and code projects. Manual sorting required repeated decisions, while direct automation introduced the risks of misclassification, overwrites, and unintended file operations.
+
+The workflow is inspect, plan, approve, execute, and verify. Its default mode only prints a dry-run; moving requires explicit approval. It does not delete or overwrite, conflicts stop execution early, shortcuts and system files stay in place, uncertain items enter a review inbox, and all work remains local.
+
+I want it to serve heavy Windows Desktop users and develop into a personalized classification system where people can keep their own taxonomy, rules, and exception lists.
+
+</details>
+
+<details>
+<summary><strong>ai-dev-context-framework</strong> — Keep coding Agents aligned across sessions.</summary>
+
+<br>
+
+I built `ai-dev-context-framework` because coding Agents can lose continuity across sessions. Product intent, technical constraints, architecture choices, and task state become scattered across chats and temporary files. As a project grows, routine progress updates can also reach decisions that should remain under user control.
+
+I chose Markdown contracts for the context layer. Product discussion becomes `SPEC.md`, then the framework creates an Agent entry point, a task queue, and additional architecture, data, design, issue, decision, and handoff files when complexity triggers them. Locked and generated regions express maintenance boundaries, while Full and Lite editions support different project sizes. The current guardrails remain conventions that depend on Agent compliance.
+
+I want the framework to serve maintainers of complex projects and grow into an Agent project-governance layer that checks context consistency, permission boundaries, decision records, and reliable restart points.
+
+</details>
 
 <a id="software-development"></a>
 <img src="assets/profile/headings/heading-software-development-v2.svg" alt="Software development" height="36" />
@@ -101,7 +151,6 @@ I first tried to bind the habit to the phone, because that is the device I touch
 I want this to remain a private, low-interrupt tool for my own routine. The public repository is the implementation and its boundaries—not a growth product, and not an attempt to look more human than a plain daily open.
 
 </details>
-
 
 <a id="data-analytics"></a>
 <img src="assets/profile/headings/heading-data-analytics-v2.svg" alt="Data analytics" height="36" />
@@ -168,58 +217,6 @@ I split the work into synthetic data generation, behavior analysis, issue attrib
 I want the project to serve AI product leaders and grow into an AI experience monitoring console, with continuous metrics, attribution quality, alerts, and experiment results connected in one place.
 
 </details>
-
-
-<a id="agents"></a>
-<img src="assets/profile/headings/heading-agents-v2.svg" alt="Agents" height="36" />
-
-I build agent systems around workflows that benefit from reusable context, tools, and judgment.
-
-| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
-|---|---|---:|
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me | [![Stars](https://img.shields.io/github/stars/okht/grill-powers?style=social)](https://github.com/okht/grill-powers) |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
-
-<details>
-<summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
-
-<br>
-
-I built `grill-powers` after using Superpowers on product work and watching product questions mix with technical ones. Without an engineering background, it is hard to tell which answers are product decisions. Each new technical option can reopen scope, so the requirement list grows and rarely shrinks.
-
-The skill joins Grill Me and Superpowers with hard stage gates. Grill Me settles product decisions one at a time and freezes an approved product spec. Superpowers owns technical design, the plan, build, review, and fresh checks. If design or coding finds a real product change, work pauses, returns to Grill Me, and re-walks approve → spec → plan before resume.
-
-I want it to serve product managers and solo builders who need Agents for delivery without giving up product control when scope shifts mid-build.
-
-</details>
-
-<details>
-<summary><strong>desktop-organizer</strong> — See every move before anything moves.</summary>
-
-<br>
-
-I built `desktop-organizer` from my own need to clean a Windows Desktop filled with documents, screenshots, installers, archives, and code projects. Manual sorting required repeated decisions, while direct automation introduced the risks of misclassification, overwrites, and unintended file operations.
-
-The workflow is inspect, plan, approve, execute, and verify. Its default mode only prints a dry-run; moving requires explicit approval. It does not delete or overwrite, conflicts stop execution early, shortcuts and system files stay in place, uncertain items enter a review inbox, and all work remains local.
-
-I want it to serve heavy Windows Desktop users and develop into a personalized classification system where people can keep their own taxonomy, rules, and exception lists.
-
-</details>
-
-<details>
-<summary><strong>ai-dev-context-framework</strong> — Keep coding Agents aligned across sessions.</summary>
-
-<br>
-
-I built `ai-dev-context-framework` because coding Agents can lose continuity across sessions. Product intent, technical constraints, architecture choices, and task state become scattered across chats and temporary files. As a project grows, routine progress updates can also reach decisions that should remain under user control.
-
-I chose Markdown contracts for the context layer. Product discussion becomes `SPEC.md`, then the framework creates an Agent entry point, a task queue, and additional architecture, data, design, issue, decision, and handoff files when complexity triggers them. Locked and generated regions express maintenance boundaries, while Full and Lite editions support different project sizes. The current guardrails remain conventions that depend on Agent compliance.
-
-I want the framework to serve maintainers of complex projects and grow into an Agent project-governance layer that checks context consistency, permission boundaries, decision records, and reliable restart points.
-
-</details>
-
 
 ---
 
