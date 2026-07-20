@@ -1,19 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="33.9" height="18" viewBox="0 0 33.9 18" role="img" aria-label="Skill">
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="18" viewBox="0 0 40 18" role="img" aria-label="Skill">
   <title>Skill</title>
-  <desc>Small rounded Skill badge. GT Eesti Display letterforms (path-outlined), same family as cht.me profile marks.</desc>
+  <desc>Small rounded Skill badge with system UI font.</desc>
   <style>
     .bg { fill: #0969da; }
-    .fg { fill: #ffffff; }
+    .t { fill: #ffffff; font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; }
     @media (prefers-color-scheme: dark) {
       .bg { fill: #1f6feb; }
     }
   </style>
-  <rect class="bg" width="33.9" height="18" rx="9.0" ry="9.0"/>
-  <g class="fg" transform="translate(8.00 12.60) scale(0.012500 -0.012500)">
-    <path d="M258.0 715.0 C124.0 715.0 50.0 646.0 50.0 537.0 C50.0 462.0 87.0 404.0 161.0 353.0 L274.0 272.0 C319.0 240.0 345.0 216.0 345.0 180.0 C345.0 138.0 312.0 109.0 246.0 109.0 C179.0 109.0 113.0 137.0 57.0 170.0 L0.0 53.0 C66.0 12.0 151.0 -15.0 242.0 -15.0 C389.0 -15.0 481.0 55.0 481.0 187.0 C481.0 275.0 439.0 331.0 361.0 384.0 L240.0 469.0 C202.0 496.0 186.0 514.0 186.0 541.0 C186.0 572.0 206.0 592.0 259.0 592.0 C305.0 592.0 355.0 576.0 408.0 549.0 L463.0 666.0 C398.0 696.0 328.0 715.0 258.0 715.0 Z" />
-    <path d="M751.0 252.0 940.0 462.0 H784.0 L632.0 271.0 V700 H509.0 V0 H632.0 V221 L805.0 0.0 H965.0 Z" />
-    <path d="M993.0 694.0 V559 H1133.0 V694 ZM1124.0 0.0 V462 H1001.0 V0 Z" />
-    <path d="M1161.0 700.0 V0 H1284.0 V700 Z" />
-    <path d="M1312.0 700.0 V0 H1435.0 V700 Z" />
-  </g>
+  <rect class="bg" width="40" height="18" rx="9" ry="9"/>
+  <text class="t" x="20" y="13" text-anchor="middle">Skill</text>
 </svg>
