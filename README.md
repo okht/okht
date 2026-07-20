@@ -43,8 +43,8 @@ This profile follows three lines of work. Every repository begins with a concret
 
 I build agent systems around workflows that benefit from reusable context, tools, and judgment.
 
-| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
-|---|---|---:|
+| <div align="center">Project</div> | <div align="center">Product idea</div> |
+|---|---|
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me | [![Stars](https://img.shields.io/github/stars/okht/grill-powers?style=social)](https://github.com/okht/grill-powers) |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
@@ -93,8 +93,8 @@ I want the framework to serve maintainers of complex projects and grow into an A
 
 I build focused tools around problems I have actually encountered.
 
-| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
-|---|---|---:|
+| <div align="center">Project</div> | <div align="center">Product idea</div> |
+|---|---|
 | [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought | [![Stars](https://img.shields.io/github/stars/okht/clip-md?style=social)](https://github.com/okht/clip-md) |
 | [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving | [![Stars](https://img.shields.io/github/stars/okht/gmail-inbox-system-public?style=social)](https://github.com/okht/gmail-inbox-system-public) |
 | [**okx-btc-daily-report-public**](https://github.com/okht/okx-btc-daily-report-public) | Recalculate the BTC DCA metrics I care about from read-only trades and deliver them by email | [![Stars](https://img.shields.io/github/stars/okht/okx-btc-daily-report-public?style=social)](https://github.com/okht/okx-btc-daily-report-public) |
@@ -159,8 +159,8 @@ I use analysis to challenge intuition, record uncertainty, and make decisions ea
 
 > The investment and trading projects document personal research. They do not provide financial advice.
 
-| <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
-|---|---|---:|
+| <div align="center">Project</div> | <div align="center">Product idea</div> |
+|---|---|
 | [**quant-research**](https://github.com/okht/quant-research) | A reusable research framework that records assumptions, costs, failed experiments, and validation limits | [![Stars](https://img.shields.io/github/stars/okht/quant-research?style=social)](https://github.com/okht/quant-research) |
 | [**crypto-trading-research**](https://github.com/okht/crypto-trading-research) | Test whether active BTC strategies add enough value to justify their cost and effort against long-term holding | [![Stars](https://img.shields.io/github/stars/okht/crypto-trading-research?style=social)](https://github.com/okht/crypto-trading-research) |
 | [**ecommerce-user-analysis**](https://github.com/okht/ecommerce-user-analysis) | Turn historical transactions into customer segments and growth hypotheses through RFM and K-Means | [![Stars](https://img.shields.io/github/stars/okht/ecommerce-user-analysis?style=social)](https://github.com/okht/ecommerce-user-analysis) |
