@@ -177,23 +177,8 @@ I build agent systems around workflows that benefit from reusable context, tools
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> | <div align="center">Stars</div> |
 |---|---|---:|
-| [**readme-craft**](https://github.com/okht/readme-craft) | Build and maintain public READMEs from repository evidence, with multilingual and visual validation | [![Stars](https://img.shields.io/github/stars/okht/readme-craft?style=social)](https://github.com/okht/readme-craft) |
 | [**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification | [![Stars](https://img.shields.io/github/stars/okht/desktop-organizer?style=social)](https://github.com/okht/desktop-organizer) |
-| [**become-master**](https://github.com/okht/become-master) | Compress an unfamiliar field into prioritized talking points and a 30-second memory card | [![Stars](https://img.shields.io/github/stars/okht/become-master?style=social)](https://github.com/okht/become-master) |
 | [**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions | [![Stars](https://img.shields.io/github/stars/okht/ai-dev-context-framework?style=social)](https://github.com/okht/ai-dev-context-framework) |
-
-<details>
-<summary><strong>readme-craft</strong> — Make public documentation prove what a repository can do.</summary>
-
-<br>
-
-I built `readme-craft` after repeatedly making the same publishing decisions across public projects. Hero structure, badge colors, section order, language navigation, table width, Mermaid size, and privacy checks all required fresh manual judgment. I wanted a reusable publishing standard whose quality could remain stable across repositories.
-
-Evidence-driven design is the core principle. The Skill inspects code, manifests, releases, workflows, licenses, and repository state before it writes. A validator checks links, anchors, language parity, diagrams, and private paths, while rendered previews cover layout that source inspection cannot prove.
-
-I want `readme-craft` to serve independent developers and maintainers, then grow into a README maintenance system that detects repository changes and content drift over time.
-
-</details>
 
 <details>
 <summary><strong>desktop-organizer</strong> — See every move before anything moves.</summary>
@@ -205,19 +190,6 @@ I built `desktop-organizer` from my own need to clean a Windows Desktop filled w
 The workflow is inspect, plan, approve, execute, and verify. Its default mode only prints a dry-run; moving requires explicit approval. It does not delete or overwrite, conflicts stop execution early, shortcuts and system files stay in place, uncertain items enter a review inbox, and all work remains local.
 
 I want it to serve heavy Windows Desktop users and develop into a personalized classification system where people can keep their own taxonomy, rules, and exception lists.
-
-</details>
-
-<details>
-<summary><strong>become-master</strong> — Five minutes to find your footing in a conversation.</summary>
-
-<br>
-
-I built `become-master` after seeing a close friend in tech struggle to enter social conversations. He was capable and curious, yet conversations with colleagues or someone he liked could stall because he could not quickly find shared topics. Search gave him plenty of information, but very little priority.
-
-The Skill starts with a field and a real situation, then organizes terms, products, judgments, talking points, common traps, and recovery patterns. Its most important choice is forced compression: a large field ends as an 18-node memory card that can be reviewed just before the conversation. The direction I care about is honest preparation, better listening, and more natural questions.
-
-I want it to become a personal social-preparation assistant that uses the relationship and setting to help users discover shared interests, prepare openings, and keep a conversation moving naturally.
 
 </details>
 
