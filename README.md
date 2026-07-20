@@ -45,9 +45,9 @@ I build agent systems around workflows that benefit from reusable context, tools
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions |
+| [<img src="assets/profile/project-icons/link-grill-powers-v1.svg" height="20" alt="Skill grill-powers" />](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me |
+| [<img src="assets/profile/project-icons/link-desktop-organizer-v1.svg" height="20" alt="Skill desktop-organizer" />](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification |
+| [<img src="assets/profile/project-icons/link-ai-dev-context-framework-v1.svg" height="20" alt="Skill ai-dev-context-framework" />](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions |
 
 <details>
 <summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
