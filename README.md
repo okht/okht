@@ -47,7 +47,6 @@ I build agent systems around workflows that benefit from reusable context, tools
 |---|---|
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification |
-| <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**ai-dev-context-framework**](https://github.com/okht/ai-dev-context-framework) | Preserve product intent, permissions, decisions, and task state across coding-Agent sessions |
 
 <details>
 <summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
@@ -72,19 +71,6 @@ I built `desktop-organizer` from my own need to clean a Windows Desktop filled w
 The workflow is inspect, plan, approve, execute, and verify. Its default mode only prints a dry-run; moving requires explicit approval. It does not delete or overwrite, conflicts stop execution early, shortcuts and system files stay in place, uncertain items enter a review inbox, and all work remains local.
 
 I want it to serve heavy Windows Desktop users and develop into a personalized classification system where people can keep their own taxonomy, rules, and exception lists.
-
-</details>
-
-<details>
-<summary><strong>ai-dev-context-framework</strong> — Keep coding Agents aligned across sessions.</summary>
-
-<br>
-
-I built `ai-dev-context-framework` because coding Agents can lose continuity across sessions. Product intent, technical constraints, architecture choices, and task state become scattered across chats and temporary files. As a project grows, routine progress updates can also reach decisions that should remain under user control.
-
-I chose Markdown contracts for the context layer. Product discussion becomes `SPEC.md`, then the framework creates an Agent entry point, a task queue, and additional architecture, data, design, issue, decision, and handoff files when complexity triggers them. Locked and generated regions express maintenance boundaries, while Full and Lite editions support different project sizes. The current guardrails remain conventions that depend on Agent compliance.
-
-I want the framework to serve maintainers of complex projects and grow into an Agent project-governance layer that checks context consistency, permission boundaries, decision records, and reliable restart points.
 
 </details>
 
