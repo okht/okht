@@ -23,8 +23,10 @@ OUT = Path(
 )
 
 TITLE = "SleepClaw"
-# Original v8 title: translate(285 158) scale(0.06975760 -0.06975760)
-SCALE = 0.06975760
+# Original v8 used Segoe UI Bold at scale 0.06975760 (glyph units ~1500 tall).
+# GT Eesti Display Bold is ~1000 UPM / caps ~715 — scale so rendered cap height matches v8.
+# v8 cap ~1458 * 0.06975760 ≈ 101.7px; GT caps ~715 → scale ≈ 0.1422
+SCALE = 0.06975760 * (1458.0 / 715.0)
 TITLE_BASELINE_Y = 158.0
 TITLE_LEFT_X = 285.0
 
