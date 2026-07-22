@@ -12,12 +12,13 @@ FONT_PATH = Path(
     r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti-Display-Regular-Italic-Trial.woff2"
 )
 OUT_PATH = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-regular-italic-v1.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-regular-italic-v3.svg"
 )
 
 LINES = [
     "Build from real problems.",
-    "Agent Code Data",
+    # Extra spaces between words so Agent / Code / Data read more separated
+    "Agent   Code   Data",
     "Make ideas tangible, testable, and reusable.",
 ]
 
