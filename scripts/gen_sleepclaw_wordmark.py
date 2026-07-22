@@ -1,5 +1,6 @@
-"""Replace SleepClaw title wordmark with GT Eesti Display Bold Italic.
+"""Replace SleepClaw title wordmark with GT Eesti Display Bold (roman).
 Subtitle (Coming soon...) is left unchanged.
+Size/position matched to sleepclaw-coming-soon-v8 title transform.
 """
 from __future__ import annotations
 
@@ -12,20 +13,19 @@ from fontTools.pens.transformPen import TransformPen
 from fontTools.ttLib import TTFont
 
 FONT_PATH = Path(
-    r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Display-Bold-Italic-Trial.woff2"
+    r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Display-Bold-Trial.woff2"
 )
 SRC = Path(
     r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v8.svg"
 )
 OUT = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v9.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v10.svg"
 )
 
 TITLE = "SleepClaw"
-# Match previous title visual size roughly (scale ~0.07, baseline y ~158)
-TARGET_EM_PX = 72.0
+# Original v8 title: translate(285 158) scale(0.06975760 -0.06975760)
+SCALE = 0.06975760
 TITLE_BASELINE_Y = 158.0
-# Keep left edge near previous title start (translate x ~285)
 TITLE_LEFT_X = 285.0
 
 
@@ -55,18 +55,16 @@ def text_to_paths(font: TTFont, text: str) -> tuple[list[str], float]:
 def main() -> None:
     font = TTFont(str(FONT_PATH))
     print("font:", font["name"].getDebugName(4))
-    upem = font["head"].unitsPerEm
-    scale = TARGET_EM_PX / upem
     paths, total_w = text_to_paths(font, TITLE)
-    width_px = total_w * scale
-    print(f"{TITLE!r} width_px={width_px:.1f} paths={len(paths)} scale={scale:.6f}")
+    width_px = total_w * SCALE
+    print(f"{TITLE!r} width_units={total_w:.1f} width_px={width_px:.1f} paths={len(paths)}")
+    print(f"transform=translate({TITLE_LEFT_X} {TITLE_BASELINE_Y}) scale({SCALE} -{SCALE})")
 
-    # Build title group (same classes/colors as before; only glyph paths change)
     lines = [
         f'  <g class="sc-wordmark sc-wordmark-title" fill="#17171A" aria-hidden="true" '
         f'transform="translate({TITLE_LEFT_X:.2f} {TITLE_BASELINE_Y:.2f}) '
-        f'scale({scale:.8f} {-scale:.8f})" '
-        f'data-source-style="gt-eesti-display:font-weight:Bold;font-style:Italic">'
+        f'scale({SCALE:.8f} {-SCALE:.8f})" '
+        f'data-source-style="gt-eesti-display:font-weight:Bold;font-style:normal">'
     ]
     for d in paths:
         lines.append(f'    <path d="{d}" />')
@@ -74,13 +72,11 @@ def main() -> None:
     new_title = "\n".join(lines) + "\n"
 
     src = SRC.read_text(encoding="utf-8")
-    # Replace only the title wordmark group (first sc-wordmark-title block)
     pattern = re.compile(
         r'  <g class="sc-wordmark sc-wordmark-title"[^>]*>.*?</g>\n',
         re.S,
     )
-    m = pattern.search(src)
-    if not m:
+    if not pattern.search(src):
         raise SystemExit("title wordmark group not found")
     out = pattern.sub(new_title, src, count=1)
     OUT.write_text(out, encoding="utf-8")
