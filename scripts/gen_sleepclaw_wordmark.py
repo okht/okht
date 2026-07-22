@@ -1,6 +1,5 @@
 """Replace SleepClaw title wordmark with GT Eesti Display Bold (roman).
-Subtitle (Coming soon...) is left unchanged.
-Size/position matched to sleepclaw-coming-soon-v8 title transform.
+Subtitle (Coming soon...) keeps original Georgia paths; only its X is shifted.
 """
 from __future__ import annotations
 
@@ -19,16 +18,16 @@ SRC = Path(
     r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v8.svg"
 )
 OUT = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v10.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v11.svg"
 )
 
 TITLE = "SleepClaw"
-# Original v8 used Segoe UI Bold at scale 0.06975760 (glyph units ~1500 tall).
-# GT Eesti Display Bold is ~1000 UPM / caps ~715 — scale so rendered cap height matches v8.
-# v8 cap ~1458 * 0.06975760 ≈ 101.7px; GT caps ~715 → scale ≈ 0.1422
+# Match original visual cap height (Segoe Bold scale × unit ratio)
 SCALE = 0.06975760 * (1458.0 / 715.0)
 TITLE_BASELINE_Y = 158.0
-TITLE_LEFT_X = 285.0
+# Pull title/subtitle closer to the owl (owl right edge ~x 210)
+TITLE_LEFT_X = 235.0
+SUBTITLE_LEFT_X = 242.0  # was 292 in v8; keep same offset delta as title (-50)
 
 
 def text_to_paths(font: TTFont, text: str) -> tuple[list[str], float]:
@@ -59,8 +58,8 @@ def main() -> None:
     print("font:", font["name"].getDebugName(4))
     paths, total_w = text_to_paths(font, TITLE)
     width_px = total_w * SCALE
-    print(f"{TITLE!r} width_units={total_w:.1f} width_px={width_px:.1f} paths={len(paths)}")
-    print(f"transform=translate({TITLE_LEFT_X} {TITLE_BASELINE_Y}) scale({SCALE} -{SCALE})")
+    print(f"{TITLE!r} width_px={width_px:.1f} scale={SCALE:.6f}")
+    print(f"title x={TITLE_LEFT_X} subtitle x={SUBTITLE_LEFT_X}")
 
     lines = [
         f'  <g class="sc-wordmark sc-wordmark-title" fill="#17171A" aria-hidden="true" '
@@ -81,6 +80,20 @@ def main() -> None:
     if not pattern.search(src):
         raise SystemExit("title wordmark group not found")
     out = pattern.sub(new_title, src, count=1)
+
+    # Shift subtitle left (keep paths/scale/y; only X)
+    out2, n = re.subn(
+        r'(class="sc-wordmark sc-wordmark-subtitle"[^>]*transform="translate\()'
+        r'[\d.]+'
+        r'( [\d.]+\) scale\()',
+        rf"\g<1>{SUBTITLE_LEFT_X:.0f}\2",
+        out,
+        count=1,
+    )
+    if n != 1:
+        raise SystemExit(f"subtitle shift failed n={n}")
+    out = out2
+
     OUT.write_text(out, encoding="utf-8")
     print("wrote", OUT, "bytes", OUT.stat().st_size)
 
