@@ -9,10 +9,10 @@ from fontTools.pens.transformPen import TransformPen
 from fontTools.ttLib import TTFont
 
 FONT_PATH = Path(
-    r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Display-Regular-Italic-Trial.woff2"
+    r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Display-Bold-Italic-Trial.woff2"
 )
 OUT = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\cht-me-tdot-v13.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\cht-me-tdot-v14.svg"
 )
 
 WORD = "cht.me"
