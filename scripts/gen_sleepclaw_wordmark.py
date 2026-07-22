@@ -18,16 +18,17 @@ SRC = Path(
     r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v8.svg"
 )
 OUT = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v11.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\sleepclaw\sleepclaw-coming-soon-v12.svg"
 )
 
 TITLE = "SleepClaw"
 # Match original visual cap height (Segoe Bold scale × unit ratio)
 SCALE = 0.06975760 * (1458.0 / 715.0)
-TITLE_BASELINE_Y = 158.0
-# Pull title/subtitle closer to the owl (owl right edge ~x 210)
-TITLE_LEFT_X = 235.0
-SUBTITLE_LEFT_X = 242.0  # was 292 in v8; keep same offset delta as title (-50)
+# Slightly farther from owl than v11, and a bit higher overall
+TITLE_BASELINE_Y = 148.0  # was 158
+TITLE_LEFT_X = 250.0  # was 235 (v11) / 285 (v8)
+SUBTITLE_LEFT_X = 257.0  # was 242 (v11) / 292 (v8)
+SUBTITLE_BASELINE_Y = 218.0  # was 228
 
 
 def text_to_paths(font: TTFont, text: str) -> tuple[list[str], float]:
@@ -81,12 +82,12 @@ def main() -> None:
         raise SystemExit("title wordmark group not found")
     out = pattern.sub(new_title, src, count=1)
 
-    # Shift subtitle left (keep paths/scale/y; only X)
+    # Shift subtitle x/y (keep paths/scale)
     out2, n = re.subn(
         r'(class="sc-wordmark sc-wordmark-subtitle"[^>]*transform="translate\()'
-        r'[\d.]+'
-        r'( [\d.]+\) scale\()',
-        rf"\g<1>{SUBTITLE_LEFT_X:.0f}\2",
+        r'[\d.]+ [\d.]+'
+        r'(\) scale\()',
+        rf"\g<1>{SUBTITLE_LEFT_X:.0f} {SUBTITLE_BASELINE_Y:.0f}\2",
         out,
         count=1,
     )
