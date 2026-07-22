@@ -1,4 +1,4 @@
-"""Generate typing-intro SVG from GT Eesti Display Medium Italic glyphs."""
+"""Generate typing-intro SVG from GT Eesti Text Light Italic glyphs."""
 from __future__ import annotations
 
 from pathlib import Path
@@ -9,10 +9,10 @@ from fontTools.pens.transformPen import TransformPen
 from fontTools.ttLib import TTFont
 
 FONT_PATH = Path(
-    r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Display-Medium-Italic-Trial.woff2"
+    r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Text-Light-Italic-Trial.woff2"
 )
 OUT_PATH = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-display-medium-italic-v3.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-text-light-italic-v1.svg"
 )
 
 LINES = [
@@ -72,7 +72,7 @@ def main() -> None:
     title = " ".join(LINES)
     parts.append(f'  <title id="title">{title}</title>\n')
     parts.append(
-        "  <desc>GT Eesti Display Medium Italic typing intro.</desc>\n"
+        "  <desc>GT Eesti Text Light Italic typing intro.</desc>\n"
     )
     parts.append("  <defs>\n    <style>\n")
     parts.append(
