@@ -15,10 +15,9 @@ OUT_PATH = Path(
     r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-regular-italic-v1.svg"
 )
 
-# Trial font has no U+00B7 middot; use spaced hyphen for the middle line.
 LINES = [
     "Build from real problems.",
-    "Agent - Code - Data.",
+    "Agent Code Data",
     "Make ideas tangible, testable, and reusable.",
 ]
 
@@ -69,10 +68,8 @@ def main() -> None:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH_CANVAS}" height="{HEIGHT}" '
         f'viewBox="0 0 {WIDTH_CANVAS} {HEIGHT}" role="img" aria-labelledby="title">\n'
     )
-    parts.append(
-        "  <title id=\"title\">Build from real problems. Agent · Code · Data. "
-        "Make ideas tangible, testable, and reusable.</title>\n"
-    )
+    title = " ".join(LINES)
+    parts.append(f'  <title id="title">{title}</title>\n')
     parts.append(
         "  <desc>GT Eesti Display Regular Italic typing intro.</desc>\n"
     )
