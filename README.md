@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile/typing-intro-gt-eesti-text-book-italic-v1.svg" alt="Typing introduction" width="680" />
+  <img src="assets/profile/typing-intro-gt-eesti-text-regular-italic-v1.svg" alt="Typing introduction" width="680" />
 </p>
 
 <div align="center">
