@@ -12,7 +12,7 @@ FONT_PATH = Path(
     r"C:\Users\ROG\Desktop\GitHub\cht-me\public\fonts\GT-Eesti\GT-Eesti-Display-Medium-Italic-Trial.woff2"
 )
 OUT_PATH = Path(
-    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-display-medium-italic-v2.svg"
+    r"C:\Users\ROG\Desktop\GitHub\okht-profile\assets\profile\typing-intro-gt-eesti-display-medium-italic-v3.svg"
 )
 
 LINES = [
@@ -99,15 +99,15 @@ def main() -> None:
     .line-wrap-2 { animation-name: show2; }
     @keyframes show0 {
       0%, 32.5%, 100% { opacity: 0; }
-      1%, 30% { opacity: 1; }
+      1%, 30% { opacity: 0.5; }
     }
     @keyframes show1 {
       0%, 33%, 65.5%, 100% { opacity: 0; }
-      34%, 63% { opacity: 1; }
+      34%, 63% { opacity: 0.5; }
     }
     @keyframes show2 {
       0%, 66%, 98.5%, 100% { opacity: 0; }
-      67%, 96% { opacity: 1; }
+      67%, 96% { opacity: 0.5; }
     }
 """
     )
