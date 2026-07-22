@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/profile/typing-intro-gt-eesti-regular-italic-v1.svg" alt="Typing introduction" width="680" />
-</p>
-
 <div align="center">
 
 <a href="https://www.polyu.edu.hk/"><img src="assets/profile/hi-cht-polyu-v10.svg" alt="Hi, I'm CHT — The Hong Kong Polytechnic University" height="60" /></a>
