@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v8.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/red-owl-vector-animated"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="Red owl animated" height="52" /></a>
+<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v9.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/red-owl-vector-animated"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="Red owl animated" height="52" /></a>
 
 ---
 
