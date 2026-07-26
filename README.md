@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v14.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/red-owl-vector-animated"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="Red owl animated" height="52" /></a>
+<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v14.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="SleepClaw" height="52" /></a>
 
 ---
 
@@ -35,7 +35,7 @@ This profile follows three lines of work. Every repository begins with a concret
 ---
 
 <p align="center">
-  <img src="assets/sleepclaw/sleepclaw-coming-soon-v12.svg" alt="SleepClaw — Coming soon." width="820" />
+  <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/sleepclaw-coming-soon-v12.svg" alt="SleepClaw — Coming soon." width="820" /></a>
 </p>
 
 <a id="agents"></a>
