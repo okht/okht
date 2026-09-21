@@ -45,8 +45,22 @@ I build agent systems around workflows that benefit from reusable context, tools
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
+| <img src="assets/sleepclaw/red-owl-vector-animated.svg" height="20" alt="" />&nbsp;[**SleepClaw**](https://github.com/okht/sleepclaw) | Bring your sleep experience and optional Apple Health records together in a guided conversation, a clear report, and one practical next step |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification |
+
+<details>
+<summary><strong>SleepClaw</strong> — Understand your night. Know what to try next.</summary>
+
+<br>
+
+I'm building `SleepClaw` to help people make sense of a night's sleep. Device records can show when you slept, while your own experience adds context about how the night felt and what might have affected it.
+
+The current desktop app supports self-reported sleep and Apple Health XML/ZIP imports. With a connected model, a Pi agent asks focused follow-up questions and queries relevant time windows. Calculated metrics stay separate from AI interpretation; the report brings together the evidence, limitations, and one practical action.
+
+The first milestone is a useful single-night investigation that people can pause and return to. Personal baselines and longer-term action tracking are planned for later stages.
+
+</details>
 
 <details>
 <summary><strong>grill-powers</strong> — Product manager from idea to accept.</summary>
