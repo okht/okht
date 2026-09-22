@@ -49,19 +49,19 @@ I build agent systems around workflows that benefit from reusable context, tools
 
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
-| <img src="assets/eval-pi/eval-pi-logo-v3.svg" height="20" alt="" />&nbsp;[**EvalPi**](https://github.com/okht/eval-pi) | Turn PRDs and business criteria into evaluation cases, model comparisons, and evidence for each iteration |
+| <img src="assets/eval-pi/eval-pi-logo-v3.svg" height="20" alt="" />&nbsp;[**EvalPi**](https://github.com/okht/eval-pi) | Help AI product managers evaluate and optimize agents with a single instruction |
 | <img src="assets/sleepclaw/red-owl-vector-animated.svg" height="20" alt="" />&nbsp;[**SleepClaw**](https://github.com/okht/sleepclaw) | Bring your sleep experience and optional Apple Health records together in a guided conversation, a clear report, and one practical next step |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**grill-powers**](https://github.com/okht/grill-powers) | Join Grill Me and Superpowers so product design, technical design, and build stay staged, and mid-build product changes re-enter through Grill Me |
 | <img src="assets/profile/project-icons/badge-skill-v1.svg" height="16" alt="Skill" />&nbsp;[**desktop-organizer**](https://github.com/okht/desktop-organizer) | Organize Windows folders through a dry-run, explicit approval, safe moves, and verification |
 
 <details>
-<summary><strong>EvalPi</strong> — Evaluate AI against product requirements.</summary>
+<summary><strong>EvalPi</strong> — Evaluate and optimize agents with a single instruction.</summary>
 
 <br>
 
-I'm building `EvalPi` to help AI product managers turn PRDs and business criteria into evaluation cases, compare models and agents, and review failure cases.
+I'm building `EvalPi` to help AI product managers evaluate and optimize agents with a single instruction.
 
-The planned workflow supports Feishu documents and Markdown PRDs, configurable model APIs and LLM judges, and human review of scoring decisions. Evaluation prompts are generated from requirements and criteria; failure analysis and regression checks help assess each iteration.
+The planned workflow uses PRDs, evaluation criteria, and connected agent APIs to generate tests, analyze failures, propose improvements, and verify results through regression checks.
 
 [Explore EvalPi](https://github.com/okht/eval-pi)
 
