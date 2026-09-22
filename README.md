@@ -35,6 +35,10 @@ This profile follows three lines of work. Every repository begins with a concret
 ---
 
 <p align="center">
+  <a href="https://github.com/okht/eval-pi"><img src="assets/eval-pi/eval-pi-coming-soon-v1.svg" alt="EvalPi — Coming soon" width="820" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/sleepclaw-is-coming-v13.svg" alt="SleepClaw — is coming" width="820" /></a>
 </p>
 
