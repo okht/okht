@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v14.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="SleepClaw" height="52" /></a> &nbsp; <a href="https://github.com/okht/eval-pi"><img src="assets/eval-pi/eval-pi-logo.svg" alt="eval-pi" height="44" /></a>
+<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v14.svg" alt="cht.me" height="52" /></a> <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="SleepClaw" height="52" /></a> &nbsp; <a href="https://github.com/okht/eval-pi"><img src="assets/eval-pi/eval-pi-logo.svg" alt="eval-pi" height="48" /></a>
 
 ---
 
