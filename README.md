@@ -114,9 +114,6 @@ I build focused tools around problems I have actually encountered.
 | <div align="center">Project</div> | <div align="center">Product idea</div> |
 |---|---|
 | [**clip-md**](https://github.com/okht/clip-md) | Save valuable AI responses to local Markdown in one click, without breaking the current train of thought |
-| [**gmail-inbox-system-public**](https://github.com/okht/gmail-inbox-system-public) | Turn Gmail into a cautious hub for multiple inboxes with composable labels and guarded archiving |
-| [**okx-btc-daily-report-public**](https://github.com/okht/okx-btc-daily-report-public) | Recalculate the BTC DCA metrics I care about from read-only trades and deliver them by email |
-| [**majsoul-windows-daily-login**](https://github.com/okht/majsoul-windows-daily-login) | Keep a paid Mahjong Soul monthly pass from going to waste with a quiet daily open on Windows, without a login bot |
 
 <details>
 <summary><strong>clip-md</strong> — Copy what matters. Keep it as Markdown.</summary>
