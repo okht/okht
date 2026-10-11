@@ -128,45 +128,6 @@ I want `clip-md` to serve frequent AI users and knowledge workers. Its direction
 
 </details>
 
-<details>
-<summary><strong>gmail-inbox-system-public</strong> — One inbox, several meanings, controlled automation.</summary>
-
-<br>
-
-I built Gmail Inbox System after routing several mailboxes into Gmail. Switching decreased, but the inbox began to lose source and action semantics. App notifications, bills, security alerts, personal messages, and pending work arrived in one stream, while the old labels mixed source, content type, and status in ways that became harder to maintain over time.
-
-I separated the label system into composable dimensions: application, type, source, and status each express one meaning. A message can preserve where it came from, what it contains, and what action it needs. Classification, preview, retention windows, and protection rules form explicit gates around archiving, while uncertain mail remains visible.
-
-I want this system to become my personal email hub, with Gmail as the unified entrance and AI-generated daily briefings as a future layer. The public repository contains reusable, privacy-conscious rules and examples; it contains no private messages, account credentials, or access to my live mailboxes.
-
-</details>
-
-<details>
-<summary><strong>okx-btc-daily-report-public</strong> — My DCA strategy, measured on my terms.</summary>
-
-<br>
-
-I built OKX BTC Daily Report because I follow my own BTC DCA strategy. The exchange's built-in plan did not match the rules and cadence I wanted, and its fixed dashboard could not answer the questions I cared about, such as 30-day performance, planned versus actual investment, and the result after fills and fees.
-
-The workflow reads trade data through read-only access and recalculates daily, 7-day, 30-day, and cumulative views with my own definitions. Split fills, fees, and quote currencies make manual tracking drift over time, so the rules need to run consistently. I chose email delivery because the report should arrive inside an existing routine without asking me to maintain another dashboard.
-
-I want it to develop into a personal investment data console covering more assets, time windows, metrics, and visual views. The public repository is a sanitized reference implementation: it contains no API keys, cannot see my OKX account, and does not execute trades.
-
-</details>
-
-<details>
-<summary><strong>majsoul-windows-daily-login</strong> — Don't waste the monthly pass.</summary>
-
-<br>
-
-I built `majsoul-windows-daily-login` after buying a Mahjong Soul monthly pass and watching it go to waste. Work and study kept the day full, so the daily check-in was easy to miss even when I intended to open the client. The product problem was not “play more”; it was stop leaking value I had already paid for, with as little daily attention as possible.
-
-I first tried to bind the habit to the phone, because that is the device I touch most often. I dropped that path: iOS is a poor fit for this kind of local automation, and I did not want a cloud bot that logs in, clicks, or handles captchas for me. Windows became the practical surface. The scheduled path reuses a dedicated Edge profile, opens the official client in a local morning window, confirms the lobby with read-only fingerprints and accessible text, and never synthesizes input. After success it dwells briefly and exits. Optional mail fires only on failure or a manual block; a healthy day stays silent.
-
-I want this to remain a private, low-interrupt tool for my own routine. The public repository is the implementation and its boundaries—not a growth product, and not an attempt to look more human than a plain daily open.
-
-</details>
-
 <a id="data-analytics"></a>
 <img src="assets/profile/headings/heading-data-analytics-v2.svg" alt="Data analytics" height="36" />
 
