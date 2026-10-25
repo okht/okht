@@ -17,6 +17,9 @@
 
 ---
 
+<details>
+<summary><strong>About me · Projects · Tech stack</strong></summary>
+
 <a id="about"></a>
 <img src="assets/profile/headings/heading-about-me-v5.svg" alt="About me" height="36" />
 
@@ -206,3 +209,5 @@ I want the project to serve AI product leaders and grow into an AI experience mo
 <img src="assets/profile/footer-made-by-cht-v2.svg" alt="Made by CHT © 2026" height="28" />
 
 </div>
+
+</details>
