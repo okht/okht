@@ -20,6 +20,8 @@
 <details>
 <summary><strong>About me · Projects · Tech stack</strong></summary>
 
+<br>
+
 <a id="about"></a>
 <img src="assets/profile/headings/heading-about-me-v5.svg" alt="About me" height="36" />
 
