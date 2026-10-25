@@ -18,7 +18,7 @@
 ---
 
 <details>
-<summary><picture><img src="assets/profile/headings/heading-profile-details-v1.svg" alt="About me · Projects · Tech stack" height="28" align="absmiddle" /></picture></summary>
+<summary><picture><img src="assets/profile/headings/heading-profile-details-v1.svg" alt="About me · Projects · Tech stack" height="24" align="absmiddle" /></picture></summary>
 
 <br>
 
