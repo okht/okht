@@ -18,7 +18,7 @@
 ---
 
 <details>
-<summary><strong>About me · Projects · Tech stack</strong></summary>
+<summary><picture><img src="assets/profile/headings/heading-profile-details-v1.svg" alt="About me · Projects · Tech stack" height="36" align="absmiddle" /></picture></summary>
 
 <br>
 
