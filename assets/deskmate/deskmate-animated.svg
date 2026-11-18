@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="-6 -6 60 60"
+     color="#2f5bd3" role="img" aria-labelledby="title">
+  <title id="title">DeskMate</title>
+  <style>
+    .mk-eyes, .mk-eye, .mk-mouth {
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    @keyframes mk-wake {
+      0%, 45% { transform: scaleY(0.12); }
+      70% { transform: scaleY(1.15); }
+      100% { transform: scaleY(1); }
+    }
+    @keyframes mk-blink {
+      0%, 86%, 92%, 100% { transform: scaleY(1); }
+      89% { transform: scaleY(0.12); }
+    }
+    @keyframes mk-smile {
+      0%, 62%, 100% { transform: scale(1, 1); }
+      72%, 84% { transform: scale(1.12, 1.15); }
+    }
+
+    @media (prefers-reduced-motion: no-preference) {
+      .mk-eyes { animation: mk-wake 1.3s cubic-bezier(0.16, 1, 0.3, 1) 0.2s both; }
+      .mk-eye { animation: mk-blink 5s linear 1.6s infinite; }
+      .mk-mouth { animation: mk-smile 5s cubic-bezier(0.65, 0, 0.35, 1) 1.6s infinite; }
+    }
+  </style>
+  <rect width="48" height="48" rx="12.86" fill="currentColor"/>
+  <path fill="#ffffff" d="M15 9h18a6.5 6.5 0 0 1 6.5 6.5v11A6.5 6.5 0 0 1 33 33h-7.4l-5.2 4.6a.8.8 0 0 1-1.3-.6v-4H15a6.5 6.5 0 0 1-6.5-6.5v-11A6.5 6.5 0 0 1 15 9z"/>
+  <g class="mk-eyes" fill="currentColor">
+    <circle class="mk-eye" cx="19" cy="19.5" r="2.3"/>
+    <circle class="mk-eye" cx="29" cy="19.5" r="2.3"/>
+  </g>
+  <path class="mk-mouth" d="M18.6 25.2c3.1 3 7.7 3 10.8 0" fill="none"
+        stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
