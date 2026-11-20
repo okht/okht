@@ -11,4 +11,4 @@
 
 <br>
 
-<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v15.svg" alt="t" width="52" height="52" /></a> <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="SleepClaw" height="52" /></a> &nbsp; <a href="https://github.com/okht/eval-pi"><img src="assets/eval-pi/eval-pi-logo-v3.svg" alt="EvalPi" height="48" /></a> &nbsp; <img src="assets/deskmate/deskmate-animated.svg" alt="DeskMate" width="52" height="52" />
+<a href="https://cht.me"><img src="assets/profile/cht-me-tdot-v15.svg" alt="t" width="52" height="52" /></a> <a href="https://github.com/okht/sleepclaw"><img src="assets/sleepclaw/red-owl-vector-animated.svg" alt="SleepClaw" height="52" /></a> &nbsp; <a href="https://github.com/okht/eval-pi"><img src="assets/eval-pi/eval-pi-logo-v3.svg" alt="EvalPi" height="48" /></a> &nbsp; <a href="https://deskmate.cht.me"><img src="assets/deskmate/deskmate-animated.svg" alt="DeskMate" width="52" height="52" /></a>
